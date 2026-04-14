@@ -1,5 +1,5 @@
 # Theme
-theme: minimal-mistakes-jekyll   # or remote_theme if using GitHub Pages
+remote_theme: mmistakes/minimal-mistakes   # or remote_theme if using GitHub Pages
 
 # Site Settings
 title: "Aniruddhan Ganesaraman"

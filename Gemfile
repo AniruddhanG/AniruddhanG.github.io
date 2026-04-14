@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4"
-gem "minimal-mistakes-jekyll"
-
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache"
 gem "csv"
 gem "base64"
 gem "bigdecimal"
