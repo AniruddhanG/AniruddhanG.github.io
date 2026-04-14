@@ -10,5 +10,5 @@ My research interests include:
 - Machine Learning
 - Adaptive Policies
 
-Feel free to [email me](mailto:anigr@unc.edu)/(mailto:aniruddh.math@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/aniruddhan-ganesaraman).
+Feel free to [email me](mailto:anigr@unc.edu) or connect on [LinkedIn](https://linkedin.com/in/aniruddhan-ganesaraman)!
 
