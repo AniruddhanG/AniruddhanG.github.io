@@ -1,0 +1,70 @@
+# Theme
+theme: minimal-mistakes-jekyll   # or remote_theme if using GitHub Pages
+
+# Site Settings
+title: "Aniruddhan Ganesaraman"
+name: "Aniruddhan Ganesaraman"
+description: "PhD Student in Statistics and Operations Research at University of North Carolina at Chapel Hill"
+url: "https://AniruddhanG.github.io"  # Your GitHub Pages URL
+baseurl: ""  # Leave empty if deploying to root
+
+# Author Info (appears in sidebar)
+author:
+  name: "Aniruddhan Ganesaraman"
+  avatar: "/assets/images/avatar.jpg"  # Path to your photo
+  bio: "PhD Student in Statistics & Operations Research at UNC Chapel Hill."
+  location: "Chapel Hill, NC"
+  email: "aniruddh.math@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourusername"
+    - label: "Twitter/X"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/yourusername"
+
+# Site appearance
+minimal_mistakes_skin: "default"  # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Reading files
+include:
+  - _pages
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Defaults (sets the layout for all pages/posts)
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
