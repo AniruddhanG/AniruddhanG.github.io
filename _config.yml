@@ -1,56 +1,61 @@
-# Theme
-remote_theme: mmistakes/minimal-mistakes   # or remote_theme if using GitHub Pages
-
-# Site Settings
 title: "Aniruddhan Ganesaraman"
-name: "Aniruddhan Ganesaraman"
-description: "PhD Student in Statistics and Operations Research at University of North Carolina at Chapel Hill"
-url: "https://AniruddhanG.github.io"  # Your GitHub Pages URL
-baseurl: ""  # Leave empty if deploying to root
+email: anigr@unc.edu
+description: "PhD Student in Statistics and Operations Research at UNC Chapel Hill. "
+url: "https://AniruddhanG.github.io"
+baseurl: ""
+github_username: AniruddhanG
+minimal_mistakes_skin: mint      # try: air, dark, contrast, plum, sunrise
 
-# Author Info (appears in sidebar)
-author:
-  name: "Aniruddhan Ganesaraman"
-  avatar: "/assets/images/avatar.jpg"  # Path to your photo
-  bio: "PhD Student in Statistics & Operations Research at UNC Chapel Hill."
-  location: "Chapel Hill, NC"
-  email: "aniruddh.math@gmail.com"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
-    - label: "Twitter/X"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/yourusername"
-
-# Site appearance
-minimal_mistakes_skin: "default"  # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
-
-# Reading files
-include:
-  - _pages
-
-# Build settings
+search: true
 markdown: kramdown
-highlighter: rouge
+remote_theme: mmistakes/minimal-mistakes
+
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
+timezone: America/New_York
 
-# Plugins
+include:
+  - _pages
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
-# Defaults (sets the layout for all pages/posts)
+author:
+  name: "Aniruddhan Ganesaraman"
+  avatar: "/assets/images/avatar.png"
+  bio: "PhD Student in Statistics & Operations Research at UNC Chapel Hill."
+  location: "Chapel Hill, NC"
+  email: anigr@unc.edu
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AniruddhanG"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/aniruddhan-ganesaraman"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:anigr@unc.edu"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AniruddhanG"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/aniruddhan-ganesaraman"
+
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -61,10 +66,16 @@ defaults:
       comments: false
       share: true
       related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
