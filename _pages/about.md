@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hi! I'm Aniruddhan Ganesaraman, a PhD student in Statistics and Operations Research at the University of North Carolina at Chapel Hill.
+Hi! I'm Ani, a PhD student in Statistics and Operations Research at the University of North Carolina at Chapel Hill.
 
 My research interests include:
 - Causal Inference
