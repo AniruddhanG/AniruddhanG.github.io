@@ -28,7 +28,7 @@ As a TA, my responsibilities included grading homework assignments and exams, ho
 | Spring 2025 | STOR 445 | (UG) Stochastic Modelling | [Prof. Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu) |
 | Fall 2024 | STOR 435 | (UG) Introduction to Probaility | [Prof. Mariana Olvera-Cravioto](https://molvera.web.unc.edu) |
 
-### Guest Lectures & Filling In
+### Guest Lectures
 
 On several occasions I have stepped in to cover lectures for instructors who were unavailable.
 
