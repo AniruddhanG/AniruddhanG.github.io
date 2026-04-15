@@ -3,7 +3,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-There is something deeply satisfying about the moment a concept clicks for a student — and I find myself constantly thinking about how to make that happen more reliably. My teaching philosophy is simple: *I try to explain things the way I would have wanted them explained to me.* This means building intuition before formalism, using concrete examples before abstract definitions, and never making a student feel that confusion is their fault. 
+There is something deeply satisfying about the moment a concept clicks for a student — and I find myself constantly thinking about how to make that happen more reliably. My teaching philosophy is simple: *I try to explain things the way I would have wanted them explained to me.* 
 
 ---
 
@@ -11,11 +11,11 @@ There is something deeply satisfying about the moment a concept clicks for a stu
 
 ### Instructor of Record
 
-- **Jun '26 - Jul '26** - I will be the lead instructor of STOR 155 (Introduction to Data Models and Inference) in the summer semester, responsible for all lectures, assessments, and course administration! Read [my feature in INDY Week](https://indyweek.com/sponsored/inside-unc-summer-school-career-relevant-skills-for-every-stage-of-learner/) about teaching STOR 155.
+- **Jun '26 - Jul '26** - I will be the primary instructor of STOR 155 (Introduction to Data Models and Inference) in the summer semester, responsible for all lectures, assessments, and course administration! Read [my feature in INDY Week](https://indyweek.com/sponsored/inside-unc-summer-school-career-relevant-skills-for-every-stage-of-learner/) about teaching STOR 155.
 
 ### Bootcamp 
 
-- **Aug '25 - Dec '25** — Served as the lead instructor along with [Dr. Panagiotis Andreou](https://www.linkedin.com/in/panagiotis-andreou-b58a5b131) for the incoming PhD student bootcamp in the Department of Statistics and Operations Research, covering foundational topics in Real Analysis and Linear Algebra. [[Course Material](https://drive.google.com/drive/folders/1xPRmMQumq160zM-vchiYXc-T3X433QaD)]
+- **Aug '25 - Dec '25** — Served as the lead instructor along with [Dr. Panagiotis Andreou](https://www.linkedin.com/in/panagiotis-andreou-b58a5b131) for the incoming PhD student bootcamp in the Department of Statistics and Operations Research, covering foundational topics in Real Analysis and Linear Algebra over the course of 8 weeks. [[Course Material](https://drive.google.com/drive/folders/1xPRmMQumq160zM-vchiYXc-T3X433QaD)]
 
 ### Teaching Assistantships
 
@@ -62,7 +62,7 @@ Course name links direct to available course materials, including homework assig
 | Apr '21 - Jul '21 | [Probability Theory](https://www.dropbox.com/scl/fo/zdj6la9jkl1ah6od3o1wj/AMZMLq19N93vVi750L_86n8?rlkey=zqb9dja5viekvyohf9tz94350&e=1&dl=0) | [Prof. Parameswaran Sankaran](https://www.cmi.ac.in/~sankaran/) | 
 | Apr '21 - Jul '21 | [Analysis II](https://www.dropbox.com/scl/fo/k6fb7tvuvrsd75g5k7zx7/AJnP99ZdOwHvFavV1Hc923Y?rlkey=n7btp65gfkak5j6qaxqdpn78c&e=1&dl=0) | [Prof. Sukhendu Mehrotra](https://www.researchgate.net/profile/Sukhendu-Mehrotra) | 
 | Dec '20 - Mar '21 | [Functional Programming Using Haskell](https://www.dropbox.com/scl/fo/dshttbt1laey7zo0lxid8/AHlA7giIz3Qgha78Y9nGUl4?rlkey=u2v06axt2sjp0lju9r84mcp82&e=1&dl=0) | [Prof. SP Suresh](https://www.cmi.ac.in/~spsuresh/) | 
-| Dec '20 - Mar '21 | [Analyiss I](https://www.dropbox.com/scl/fo/9eitozbl3xgvrfz1tafnr/ABQY4uQg-jUVsa_zhWgYzNY?rlkey=ax5s55cw04nt7mpflghugfr0i&e=1&dl=0) | [Prof. Purusottam Rath](https://www.researchgate.net/scientific-contributions/Purusottam-Rath-74348216) | 
+| Dec '20 - Mar '21 | [Analysis I](https://www.dropbox.com/scl/fo/9eitozbl3xgvrfz1tafnr/ABQY4uQg-jUVsa_zhWgYzNY?rlkey=ax5s55cw04nt7mpflghugfr0i&e=1&dl=0) | [Prof. Purusottam Rath](https://www.researchgate.net/scientific-contributions/Purusottam-Rath-74348216) | 
 
 ---
 
