@@ -29,8 +29,8 @@ plugins:
 author:
   name: "Aniruddhan Ganesaraman"
   avatar: "/assets/images/avatar.png"
-  bio: "PhD Student in Statistics & Operations Research at UNC Chapel Hill."
-  location: "Chapel Hill, NC"
+  bio: "PhD Student in Statistics & Operations Research, UNC Chapel Hill."
+  location: "Chapel Hill, NC, USA"
   email: anigr@unc.edu
   links:
     - label: "GitHub"
@@ -42,9 +42,6 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:anigr@unc.edu"
 
 footer:
   links:
