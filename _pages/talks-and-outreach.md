@@ -1,6 +1,6 @@
 ---
-title: "Talks"
-permalink: /talks/
+title: "Talks & Outreach"
+permalink: /talks-and-outreach/
 ---
 
 ## Research Talks
@@ -36,8 +36,10 @@ If you have an outreach opportunity you think I'd be a good fit for, feel free t
 
 ### Outreach & Volunteer Activities
 
-- **[NC Science Festival](https://www.ncscifest.org/)** — Volunteered at the annual statewide science outreach event, engaging with K–12 students and the general public on topics in mathematics and data science.
+- **[UNC Science Expo](https://moreheadplanetarium.org/program/expo/)** (April 2025 & 2026) — Volunteered at this annual celebration of science hosted by Morehead Planetarium and Science Center, welcoming thousands of visitors to UNC's campus for hands-on science demonstrations and activities across research areas.
 
-- **[UNC Engineers Week](https://engr.unc.edu/)** — Participated as a volunteer representing the Department of Statistics and Operations Research, introducing prospective students to research in statistical modeling and operations research.
+- **[UNC Engineers Week](https://college.unc.edu/2026/02/engineering-week/)** — Volunteered during this campus-wide celebration of engineering, representing the Department of Statistics and Operations Research with a focus on operations research and its applications in healthcare systems, including making hospitals function more efficiently.
 
-- **[STEMS & Tessellate](https://www.tessellate.cmi.ac.in/), CMI (2019–2022)** — Served as Event Coordinator and Head Organizer for CMI's annual inter-collegiate mathematics and science festival. In this role, I was responsible for end-to-end event planning, coordinating with student teams, designing problem sets, and managing logistics for participants across India. It remains one of the most formative leadership experiences of my academic life.
+- **[STEMS & Tessellate](https://www.tessellate.cmi.ac.in/), CMI (2019–2022)** — I served as Event Coordinator and Head Organizer for CMI's annual inter-collegiate mathematics and science festival during my undergraduate years. My responsibilities spanned end-to-end event planning, managing logistics for participants from across India, and coordinating with students, faculty, admin staff. A particular highlight was organizing the [STEMS lecture series](https://tessellate.cmi.ac.in/stems/), which brings leading researchers from top institutions worldwide to speak to high school and undergraduate students. Being on both sides of that experience, as an organizer and as a student in the audience, was deeply formative.
+
+    Beyond the organizational work, Tessellate was simply a lot of fun - a week every year when the CMI campus came alive with competitions, quizzes, talks, and the infectious energy of students who love mathematics and science. It taught me that building community around ideas is just as important as the ideas themselves, and it remains one of the experiences I look back on most fondly from my time at CMI.
