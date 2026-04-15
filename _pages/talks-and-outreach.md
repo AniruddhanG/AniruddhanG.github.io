@@ -33,3 +33,11 @@ If you have an outreach opportunity you think I'd be a good fit for, feel free t
 | 09 Oct 2021 | *From Sports to Courts — The Omnipresence of Math* | [ROOTS 2021 Lecture Series](https://www.raisingamathematician.com/), CMI Tessellate & STEMS | [Abstract](https://www.dropbox.com/s/uvf889io8bkgo2f/From%20sports%20to%20courts%20Abstract-Poster.jpg?dl=0) \| [Slides](https://www.dropbox.com/s/i1untw9fa7nplqy/From%20Sports%20to%20Courts.pdf?dl=0) \| [Video](https://youtu.be/qKhebcAj6zQ) |
 | 25 Sep 2021 | *Length at Length* | [Online Math Club](https://sites.google.com/view/online-math-club) | [Abstract](https://www.dropbox.com/s/4hg8m7u5b5bjbcd/Length%20at%20length%20Abstract.pdf?dl=0) \| [Handout](https://www.dropbox.com/s/qqlzw0awnvrmg11/Length%20at%20length.pdf?dl=0) \| [Video](https://youtu.be/rp4T9PXKI1Y) |
 | 09 Sep 2021 | *Am I Correct? Probably! Tales of the Use and Misuse of Math* | [DhiMath](https://www.dhimath.org/) | [Abstract](https://www.dropbox.com/s/5rq138ioqg2dk6e/DhiMath%20Abstract.pdf?dl=0) \| [Slides](https://www.dropbox.com/s/sncch1wquor7e10/DhiMath%20-%2009%20Sep.pdf?dl=0) \| [Video](https://youtu.be/gWauyyl_JKk) |
+
+### Outreach & Volunteer Activities
+
+- **[NC Science Festival](https://www.ncscifest.org/)** — Volunteered at the annual statewide science outreach event, engaging with K–12 students and the general public on topics in mathematics and data science.
+
+- **[UNC Engineers Week](https://engr.unc.edu/)** — Participated as a volunteer representing the Department of Statistics and Operations Research, introducing prospective students to research in statistical modeling and operations research.
+
+- **[STEMS & Tessellate](https://www.tessellate.cmi.ac.in/), CMI (2019–2022)** — Served as Event Coordinator and Head Organizer for CMI's annual inter-collegiate mathematics and science festival. In this role, I was responsible for end-to-end event planning, coordinating with student teams, designing problem sets, and managing logistics for participants across India. It remains one of the most formative leadership experiences of my academic life.
