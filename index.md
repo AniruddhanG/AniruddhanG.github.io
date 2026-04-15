@@ -14,6 +14,8 @@ I completed my Masters in Statistics from [Indian Statistical Institute, Kolkata
 📢 **Open to Opportunities**: I'm actively seeking internship opportunities and research collaborations involving statistical modeling, policy learning, or causal inference. I would love to [get in touch](mailto:anigr@unc.edu)!
 {: .notice--info}
 
+**Email ID**: anigr [at] unc [dot] edu, aniruddh.math [at] gmail [dot] com. 
+
 ## Recent News
 
 - **10 Apr 2026** — Paper accepted for presentation at the [2026 INFORMS Healthcare Conference](https://meetings.informs.org/wordpress/healthcare/) (Raleigh, NC, Jul 28–30): *"A Decision Framework for Early Inpatient Bed Requests in Emergency Departments"* with Qian Cheng, [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu).
