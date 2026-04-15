@@ -18,11 +18,11 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 ## Recent News
 
-- **10 Apr 2026** — Paper accepted for presentation at the [2026 INFORMS Healthcare Conference](https://meetings.informs.org/wordpress/healthcare/) (Raleigh, NC, Jul 28–30): *"A Decision Framework for Early Inpatient Bed Requests in Emergency Departments"* with Qian Cheng, [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu).
+- **10 Apr 2026** — Paper accepted for presentation at the [2026 INFORMS Healthcare Conference](https://meetings.informs.org/wordpress/healthcare/) (Raleigh, NC, Jul 28 – 30): *"A Decision Framework for Early Inpatient Bed Requests in Emergency Departments"* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu).
 
-- **10 Apr 2026** — Invited to speak at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in the MSOM Service Operations session honoring Prof. Vidyadhar Kulkarni's retirement, presenting *"Data-Driven Block Replacement Scheduling"* with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu). 
+- **10 Apr 2026** — Invited to speak at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) (San Fransisco, CA, Nov 01 - 04) in the MSOM Service Operations session honoring Prof. Vidyadhar Kulkarni's retirement, presenting *"Data-Driven Block Replacement Scheduling"* with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu). 
 
-- **02 Apr 2026** — Latebreaker poster accepted at the [American Causal Inference Conference](https://sci-info.org/2026-meeting-2/) (Salt Lake City, UT, May 11–14): *"Estimation of a Common Local Average Treatment Effect with Multiple Instruments"* with [Patrick Lopatto](https://lopat.to) and [P. M. Aronow](https://pmaronow.github.io).
+- **02 Apr 2026** — Latebreaker poster accepted at the [American Causal Inference Conference](https://sci-info.org/2026-meeting-2/) (Salt Lake City, UT, May 11 – 14): *"Estimation of a Common Local Average Treatment Effect with Multiple Instruments"* with [Patrick Lopatto](https://lopat.to) and [P. M. Aronow](https://pmaronow.github.io).
 
 - **24 Mar 2026** — Successfully defended my master's thesis: *"Data-Driven Block Replacement Scheduling"* (advised by [Prof. Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu)). [[Slides](#)] [[Report](#)]
 
