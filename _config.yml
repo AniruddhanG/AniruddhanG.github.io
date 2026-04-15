@@ -28,7 +28,7 @@ plugins:
 
 author:
   name: "Aniruddhan Ganesaraman"
-  avatar: "/assets/images/avatar.png"
+  avatar: "/assets/images/avatar.jpg"
   bio: "PhD Student in Statistics & Operations Research, UNC Chapel Hill."
   location: "Chapel Hill, NC, USA"
   email: anigr@unc.edu
@@ -51,6 +51,8 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/aniruddhan-ganesaraman"
+feed:
+  disable: true
 
 defaults:
   - scope:
