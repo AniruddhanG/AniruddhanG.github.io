@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 ---
 
-[Download PDF version](/assets/files/cv.pdf)
+PDF version available upon request. 
 
 ## Education
 
