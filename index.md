@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-Hi! Welcome to my homepage! 
+Welcome to my homepage! 
 
 I'm Ani, a 2nd year PhD student in the [Department of Statistics and Operations Research](https://stor.unc.edu) at [The University of North Carolina at Chapel Hill](https://www.unc.edu). I am very glad to be advised by [Prof. Patrick Lopatto](https://lopat.to) and [Prof. Michael Kosorok](https://mkosorok.web.unc.edu). 
 
