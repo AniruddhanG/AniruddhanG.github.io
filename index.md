@@ -24,4 +24,6 @@ I completed my Masters in Statistics from [Indian Statistical Institute, Kolkata
 
 - **24 Mar 2026** — Successfully defended my master's thesis: *"Data-Driven Block Replacement Scheduling"* (advised by [Prof. Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu)). [[Slides](#)] [[Report](#)]
 
+- **07 March 2026** - Awarded *Best Methodological Rigor* in the [CAIPH Datathon 2026](https://sph.unc.edu/resource-pages/caiph-datathon/) held from 06 - 07 March, 2026. [[Certificate](#)] [[Slides](#)]
+
 - **04 Dec 2025** — Recipient of the *Dr. Xin Ge Graduate Student Excellence Award*, recognizing the best-performing first-year PhD student in the department (see page 15 in the [department newsletter](https://stor.unc.edu/wp-content/uploads/sites/1319/2026/01/STORies-2024-2025.pdf)). 
