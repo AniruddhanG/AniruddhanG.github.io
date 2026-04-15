@@ -17,7 +17,7 @@ Course projects have been an important part of my research development at UNC. T
 
 | Semester | Course | Project Title | Materials
 |---|---|---|---|
-| Spring (Jan - May) 2026 | HPM 883 (Causal Machine Learning) | Benchmarking Estimators of Local Average Treatment Effect | [Github Repo](https://github.com/AniruddhanUNC/LATE-Estimators) |
+| Spring (Jan - May) 2026 | HPM 883 (Causal Machine Learning) | Benchmarking Estimators of Local Average Treatment Effect | [Github Repo](https://github.com/AniruddhanG/LATE-Estimators) |
 | Fall (Aug - Dec) 2025 | BIOS 777 (Precision Medicine) | Deep RL for Personalized Treatment Recommendation ([Main Paper](https://pubmed.ncbi.nlm.nih.gov/35716038/)) | [Report](https://www.dropbox.com/scl/fi/je9dhasw81ixf0meo6tt5/777_Final_Report.pdf?rlkey=inwtdo669vr9bop3rdcna5vpq&st=3c6j3yx9&dl=0) \| [Slides](https://www.dropbox.com/scl/fi/vnufm09mal1xnt1asr66h/777_Slides.pdf?rlkey=3hfw0icnn174ftghqkcc472p8&st=f675pe2f&dl=0) | 
 | Fall (Aug - Dec) 2025 | STOR 743 (Reinforcement Learning and MDP) | Deep RL for Personalized Treatment Recommendation ([Main Paper](https://pubmed.ncbi.nlm.nih.gov/35716038/)) | [Report](https://www.dropbox.com/scl/fi/1vssghwf6dpy627coo1z3/743_Final_Report.pdf?rlkey=qifcpiqk78poflt8gmnefat6f&st=7bul3c0u&dl=0) \| [Slides](https://www.dropbox.com/scl/fi/jtph8688sdn0oueu8bfip/743_Slides.pdf?rlkey=8j8fl38vlzwk2o6p55fkf2lza&st=tgmqxrrp&dl=0) | 
 | Fall (Aug - Dec) 2025 | STOR 664 (Applied Statistics I) | NFL Resource Allocations | [Github Repo](https://github.com/AniruddhanG/UNC-STOR-664-Fall-2025-Project-NFLAllocation/tree/main) |

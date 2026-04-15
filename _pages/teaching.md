@@ -24,9 +24,11 @@ As a TA, my responsibilities included grading homework assignments and exams, ho
 | Semester | Course Number | Course Name | Instructor |
 |---|---|---|---|
 | Spring 2026 | STOR 635 | (Graduate) Probability II  | [Prof. Sayan Banerjee](https://sayan.web.unc.edu) |
-| Fall 2026 | STOR 634 | (Graduate) Probability I | [Prof. Benjamin Seeger](https://sites.google.com/view/seegerbenjamin/home) |
-| Spring 2025 | STOR 445 | (UG) Stochastic Modelling | [Prof. Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu) |
-| Fall 2024 | STOR 435 | (UG) Introduction to Probaility | [Prof. Mariana Olvera-Cravioto](https://molvera.web.unc.edu) |
+| Fall 2025 | STOR 634 | (Graduate) Probability I | [Prof. Benjamin Seeger](https://sites.google.com/view/seegerbenjamin/home) |
+| Summer 2025 | STOR 455 | Methods of Data Analysis | [Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/) | 
+| Summer 2025 | STOR 155 | Introduction to Data Models and Inference | [Tianzhu Liu](https://www.linkedin.com/in/tianzhu-liu-a4698916b/)
+| Spring 2025 | STOR 445 | Stochastic Modelling | [Prof. Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu) |
+| Fall 2024 | STOR 435 | Introduction to Probaility | [Prof. Mariana Olvera-Cravioto](https://molvera.web.unc.edu) |
 
 ### Guest Lectures
 

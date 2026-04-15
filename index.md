@@ -24,9 +24,9 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 - **02 Apr 2026** — Latebreaker poster accepted at the [American Causal Inference Conference](https://sci-info.org/2026-meeting-2/) (Salt Lake City, UT, May 11 – 14): *"Estimation of a Common Local Average Treatment Effect with Multiple Instruments"* with [Patrick Lopatto](https://lopat.to) and [P. M. Aronow](https://pmaronow.github.io).
 
-- **24 Mar 2026** — Successfully defended my master's thesis: *"Data-Driven Block Replacement Scheduling"* (advised by [Prof. Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu)). [[Slides](#)] [[Report](#)]
+- **24 Mar 2026** — Successfully defended my master's thesis: *"Data-Driven Block Replacement Scheduling"* (advised by [Prof. Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu)). 
 
-- **07 March 2026** — Awarded *Best Methodological Rigor* in the [CAIPH Datathon 2026](https://sph.unc.edu/resource-pages/caiph-datathon/) held from 06 - 07 March, 2026. [[Certificate](#)] [[Slides](#)]
+- **07 March 2026** — Awarded *Best Methodological Rigor* in the [CAIPH Datathon 2026](https://sph.unc.edu/resource-pages/caiph-datathon/) held from 06 - 07 March, 2026. [[Certificate](https://www.dropbox.com/scl/fi/jz27xjs0tr88gj8azpuv1/CAIPH2026-DatathonAwards-GreenTeam.pdf?rlkey=jb6c67stpe60i6k8ppup9rno1&st=c1xkxj89&dl=0)] [[Slides](https://www.dropbox.com/scl/fi/fsh3qyjy6bg0dawy9lqi6/Datathon_NHANES_SDOH-and-LC9.pdf?rlkey=pdteqtq6lhxmi31r3u4qyxx8z&st=ppqxoi5v&dl=0)]
 
 - **04 Dec 2025** — Recipient of the *Dr. Xin Ge Graduate Student Excellence Award*, recognizing the best-performing first-year PhD student in the department (see page 15 of the [department newsletter](https://stor.unc.edu/wp-content/uploads/sites/1319/2026/01/STORies-2024-2025.pdf)). 
 
