@@ -1,14 +1,8 @@
 ---
-permalink: /cv/
 title: "CV"
+permalink: /cv/
 ---
 
-PDF version available upon request. 
+<script>window.open('/assets/files/CV_2026_Aniruddhan_Ganesaraman.pdf', '_blank');</script>
 
-## Education
-
-**Ph.D. in Statistics**, University Name, Expected 2026
-
-## Experience
-
-**Graduate Research Assistant**, Department, Year–Present
+[Click here if the PDF does not open automatically.](/assets/files/CV_2026_Aniruddhan_Ganesaraman.pdf){:target="_blank"}
