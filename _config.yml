@@ -7,6 +7,8 @@ github_username: AniruddhanG
 minimal_mistakes_skin: mint      # try: air, dark, contrast, plum, sunrise
 
 search: true
+search_full_content: true
+search_provider: lunr
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
