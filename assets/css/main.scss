@@ -5,3 +5,6 @@
 $doc-font-size: 15;
 
 @import "minimal-mistakes";
+.page__content p {
+  text-align: justify;
+}
