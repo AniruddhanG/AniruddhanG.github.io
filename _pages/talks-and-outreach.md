@@ -1,6 +1,7 @@
 ---
 title: "Talks & Outreach"
 permalink: /talks-and-outreach/
+search: true
 ---
 
 ## Research Talks
@@ -9,10 +10,11 @@ Research presentations have been invaluable beyond just disseminating work — t
 
 | Date | Title | Organizer | Materials |
 |---|---|---|---|
-| 10 Apr 2026 | *A Decision Framework for Early Inpatient Bed Requests in Emergency Departments* | Department's Graduate Student Seminar (GSS) | [Slides](#)|
-| 24 Mar 2026 | *Data Driven Block Replacement Scheduling* | GSS | [Slides](#) | 
-| 07 Mar 2026 | *Machine Learning-based Heterogeneous Causal Effects of SDOH on Cardiovascular Health across sociodemographic characteristics* | [CAIPH Datathon](https://sph.unc.edu/resource-pages/caiph-datathon/) | [Slides](#)
-| 20 Feb 2026 | *A Decision Framework for Early Inpatient Bed Requests in Emergency Departments* | Joint BIOS-STOR Student Flashtalks | [Slides](#) | 
+| 10 Apr 2026 | *A Decision Framework for Early Inpatient Bed Requests in Emergency Departments* | Department's Graduate Student Seminar (GSS) | |
+| 24 Mar 2026 | *Data Driven Block Replacement Scheduling* | GSS |  | 
+| 07 Mar 2026 | *Machine Learning-based Heterogeneous Causal Effects of SDOH on Cardiovascular Health across sociodemographic characteristics* | [CAIPH Datathon](https://sph.unc.edu/resource-pages/caiph-datathon/) | [Slides](https://www.dropbox.com/scl/fi/fsh3qyjy6bg0dawy9lqi6/Datathon_NHANES_SDOH-and-LC9.pdf?rlkey=pdteqtq6lhxmi31r3u4qyxx8z&e=1&st=ppqxoi5v&dl=0) | 
+| 27 Feb 2026 | *A Decision Framework for Early Inpatient Bed Requests in Emergency Departments* | Dept. Visit Day for incoming students |  | 
+| 20 Feb 2026 | *A Decision Framework for Early Inpatient Bed Requests in Emergency Departments* | Joint BIOS-STOR Student Flashtalks |  | 
 | 20 Mar 2024 | *A Survey of Percolation Theory* | [CMI Seminar](https://www.cmi.ac.in//activities/seminars/2024/) | | 
 
 ---
