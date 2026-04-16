@@ -5,9 +5,7 @@ author_profile: true
 
 Welcome to my homepage! 
 
-I'm Ani, a 2nd year PhD student in the [Department of Statistics and Operations Research](https://stor.unc.edu) at [The University of North Carolina at Chapel Hill](https://www.unc.edu). I am fortune to be advised by [Prof. Patrick Lopatto](https://lopat.to) and [Prof. Michael Kosorok](https://mkosorok.web.unc.edu). 
-
-My research interests include precision medicine, causal inference, and adaptive policy learning. See my [Research page](/research/) for more details! 
+I'm Ani, a 2nd year PhD student in the [Department of Statistics and Operations Research](https://stor.unc.edu) at [The University of North Carolina at Chapel Hill](https://www.unc.edu). I am fortune to be advised by [Prof. Patrick Lopatto](https://lopat.to) and [Prof. Michael Kosorok](https://mkosorok.web.unc.edu). My research interests include **precision medicine**, **causal inference**, and **adaptive policy learning**. 
 
 I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in/index) and my undergraduate in Mathematics and Computer Science from [Chennai Mathematical Institute, Chennai, India](https://www.cmi.ac.in). 
 

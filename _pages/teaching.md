@@ -33,7 +33,7 @@ As a TA, my responsibilities included grading homework assignments and exams, ho
 
 ### Guest Lectures
 
-On several occasions I have stepped in to cover lectures for instructors who were unavailable.
+On several occasions I have stepped in to cover lectures for instructors at their request.
 
 | Date | Course Number | Course Name | Content Covered |
 |---|---|---|---|
@@ -47,6 +47,15 @@ On several occasions I have stepped in to cover lectures for instructors who wer
 | 15 April 2025 | STOR 155 | Introduction to Data Models and Inference | Bayes' Theorem | 
 | 22 November 2024 | STOR 435 | Introduction to Probability | Conditional Expectations | 
 
+---
+
+## Indian Statistical Institute (ISI)
+
+| Duration | Course Name | Instructor |
+|---|---|---|
+| Jan '24 - May '24 | [Functional Analysis](https://nptel.ac.in/courses/111106147) in [NPTEL](https://nptel.ac.in) | [Prof. S Kesavan](https://www.imsc.res.in/~kesh/), [IMSc](https://www.imsc.res.in) | 
+
+ISI encouraged engaging with peers through informal study groups and problem-solving sessions, which deepened both my understanding and my appreciation for collaborative learning.
 
 ---
 
@@ -68,11 +77,3 @@ Course name links direct to available course materials, including homework assig
 | Dec '20 - Mar '21 | [Analysis I](https://www.dropbox.com/scl/fo/9eitozbl3xgvrfz1tafnr/ABQY4uQg-jUVsa_zhWgYzNY?rlkey=ax5s55cw04nt7mpflghugfr0i&e=1&dl=0) | [Prof. Purusottam Rath](https://www.researchgate.net/scientific-contributions/Purusottam-Rath-74348216) | 
 
 ---
-
-## Indian Statistical Institute (ISI)
-
-| Duration | Course Name | Instructor |
-|---|---|---|
-| Jan '24 - May '24 | [Functional Analysis](https://nptel.ac.in/courses/111106147) in [NPTEL](https://nptel.ac.in) | [Prof. S Kesavan](https://www.imsc.res.in/~kesh/), [IMSc](https://www.imsc.res.in) | 
-
-During my time at ISI, formal teaching assistant positions were not offered to students. Nonetheless, I regularly engaged with peers through informal study groups and problem-solving sessions, which deepened both my understanding and my appreciation for collaborative learning.
