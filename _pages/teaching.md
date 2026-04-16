@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+search: true
 ---
 
 There is something deeply satisfying about the moment a concept clicks for a student — and I find myself constantly thinking about how to make that happen more reliably. My teaching philosophy is simple: *I try to explain things the way I would have wanted them explained to me.* 
