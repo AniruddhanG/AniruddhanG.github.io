@@ -9,3 +9,4 @@ main:
     url: /talks-and-outreach/
   - title: "CV"
     url: /assets/files/CV_2026_Aniruddhan_Ganesaraman.pdf
+    target: "_blank"
