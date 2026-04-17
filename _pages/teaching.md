@@ -37,15 +37,15 @@ On several occasions I have stepped in to cover lectures for instructors at thei
 
 | Date | Course Number | Course Name | Content Covered |
 |---|---|---|---|
-| 09 April 2026 | STOR 635 | Probability II | Coupling & Convergence of Markov Chains |
-| 12 March 2026 | STOR 545 | Stochastic Models and their Applications | Open Jackson Networks |
-| 12 March 2026 | STOR 445 | Stochastic Modelling | Kolmogorov's Backward Equation for Queues |  
-| 13 November 2025 | STOR 654 | Statistical Theory I | Statistical Decision Theory | 
-| 02 October 2025 | STOR 654 | Statistical Theory I | UMVUE & Lehmann-Scheffe Theorem | 
-| 16 June 2025 | STOR 155 | Introduction to Data Models and Inference | Linear Regression | 
-| 13 June 2025  | STOR 155 | Introduction to Data Models and Inference | Correlation | 
-| 15 April 2025 | STOR 155 | Introduction to Data Models and Inference | Bayes' Theorem | 
-| 22 November 2024 | STOR 435 | Introduction to Probability | Conditional Expectations | 
+| 09 Apr 2026 | STOR 635 | Probability II | Coupling & Convergence of Markov Chains |
+| 12 Mar 2026 | STOR 545 | Stochastic Models and their Applications | Open Jackson Networks |
+| 12 Mar 2026 | STOR 445 | Stochastic Modelling | Kolmogorov's Backward Equation for Queues |  
+| 13 Nov 2025 | STOR 654 | Statistical Theory I | Statistical Decision Theory | 
+| 02 Oct 2025 | STOR 654 | Statistical Theory I | UMVUE & Lehmann-Scheffe Theorem | 
+| 16 Jun 2025 | STOR 155 | Introduction to Data Models and Inference | Linear Regression | 
+| 13 Jun 2025  | STOR 155 | Introduction to Data Models and Inference | Correlation | 
+| 15 Apr 2025 | STOR 155 | Introduction to Data Models and Inference | Bayes' Theorem | 
+| 22 Nov 2024 | STOR 435 | Introduction to Probability | Conditional Expectations | 
 
 ---
 
