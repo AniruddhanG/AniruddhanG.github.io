@@ -1,6 +1,6 @@
 title: "Aniruddhan Ganesaraman"
 google_site_verification: "xXvU2nEgaD7Qp4ZdLhvH4zkLQuG3-PYMcAJoHgOVvQ0"
-email: anigr@unc.edu
+email: aniruddhan_ganesaraman@unc.edu
 description: "PhD Student in Statistics and Operations Research at UNC Chapel Hill. "
 url: "https://AniruddhanG.github.io"
 baseurl: ""
@@ -36,7 +36,7 @@ author:
   avatar: "/assets/images/avatar.jpg"
   bio: "PhD Student in Statistics & Operations Research, UNC Chapel Hill."
   location: "Chapel Hill, NC, USA"
-  email: anigr@unc.edu
+  email: aniruddhan_ganesaraman@unc.edu
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -49,7 +49,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:anigr@unc.edu"
+      url: "mailto:aniruddhan_ganesaraman@unc.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AniruddhanG"

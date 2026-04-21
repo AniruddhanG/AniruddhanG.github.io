@@ -10,7 +10,7 @@ My research is at the intersection of precision medicine, causal inference, and 
 
 Current projects include work on **adaptive treatment policies** using online learning in precision medicine; **causal inference with multiple instruments**, particularly over-identified instrumental variable settings; and **reducing emergency department boarding times** through data-driven bed management policies.
 
-Most of these projects are ongoing — I am happy to discuss any of them. Feel free to [reach out](mailto:anigr@unc.edu), and see the [Recent News](/#recent-news) section on the homepage for the latest updates!
+Most of these projects are ongoing — I am happy to discuss any of them. Feel free to [reach out](mailto:aniruddhan_ganesaraman@unc.edu), and see the [Recent News](/#recent-news) section on the homepage for the latest updates!
 
 ## Course Projects in UNC
 

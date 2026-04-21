@@ -23,7 +23,7 @@ Research presentations have been invaluable beyond just disseminating work — t
 
 Outreach is something I genuinely enjoy. Speaking to younger audiences is uniquely rewarding because their curiosity is unfiltered, and the challenge of making a difficult idea feel natural keeps me sharp. There is something deeply satisfying about making mathematics feel accessible to someone who thought it wasn't for them.
 
-If you have an outreach opportunity you think I'd be a good fit for, feel free to [get in touch](mailto:anigr@unc.edu)!
+If you have an outreach opportunity you think I'd be a good fit for, feel free to [get in touch](mailto:aniruddhan_ganesaraman@unc.edu)!
 
 | Date | Title | Organizer | Materials |
 |---|---|---|---|

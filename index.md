@@ -9,10 +9,10 @@ I'm Ani, a 2nd year PhD student in the [Department of Statistics and Operations 
 
 I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in/index) and my undergraduate in Mathematics and Computer Science from [Chennai Mathematical Institute, Chennai, India](https://www.cmi.ac.in). My full CV is <a href="/assets/files/CV_2026_Aniruddhan_Ganesaraman.pdf" target="_blank">here</a>.
 
-📢 **Open to Opportunities**: I'm actively seeking internship opportunities and research collaborations involving statistical modeling, policy learning, or causal inference. I would love to [get in touch](mailto:anigr@unc.edu)!
+📢 **Open to Opportunities**: I'm actively seeking internship opportunities and research collaborations involving statistical modeling, policy learning, or causal inference. I would love to [get in touch](mailto:aniruddhan_ganesaraman@unc.edu)!
 {: .notice--info}
 
-**Email ID**: anigr [at] unc [dot] edu, aniruddh.math [at] gmail [dot] com. 
+**Email ID**: aniruddhan_ganesaraman [at] unc [dot] edu, aniruddh.math [at] gmail [dot] com. 
 
 ## Recent News
 
