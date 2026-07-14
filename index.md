@@ -16,6 +16,14 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 ## Recent News
 
+- **14 July 2026** - Paper accepted for presentation at the [2026 INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu): *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu). 
+
+- **13 July 2026** - Submited *Proactive Inpatient Bed Requests for Emergency Department Admissions* (joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu)) to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom)!
+
+- **27 June 2026** - Submited *Data Driven Block Replacement Scheduling* (joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu)) to [Operations Research](https://pubsonline.informs.org/journal/opre)!
+
+- **13 May 2026** - Awarded Honorable Mention in the [Tom Ten Have poster competition](https://sci-info.org/tom-ten-have-award/) at the [American Causal Inference Conference (ACIC) 2026](https://sci-info.org/2026-meeting-2/) (Salt Lake City, Utah, May 11 - 14): *"Estimating a Common Local Average Treatment Effect with Multiple Instrumental Variables"* with [Patrick Lopatto](https://lopat.to) and [P. M. Aronow](https://pmaronow.github.io).
+
 - **10 Apr 2026** — Paper accepted for presentation at the [2026 INFORMS Healthcare Conference](https://meetings.informs.org/wordpress/healthcare/) (Raleigh, NC, Jul 28 – 30): *"A Decision Framework for Early Inpatient Bed Requests in Emergency Departments"* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu).
 
 - **10 Apr 2026** — Invited to speak at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) (San Fransisco, CA, Nov 01 - 04) in the MSOM Service Operations session honoring Prof. Vidyadhar Kulkarni's retirement, presenting *"Data-Driven Block Replacement Scheduling"* with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu). 

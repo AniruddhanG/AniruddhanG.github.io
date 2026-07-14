@@ -8,9 +8,11 @@ search: true
 
 My research is at the intersection of precision medicine, causal inference, and sequential decision-making, with applications in healthcare. I am broadly interested in problems where rigorous statistical thinking can directly inform policy and intervention design.
 
-Current projects include work on **adaptive treatment policies** using online learning in precision medicine; **causal inference with multiple instruments**, particularly over-identified instrumental variable settings; and **reducing emergency department boarding times** through data-driven bed management policies.
+Current projects include work on **adaptive treatment policies** using online learning in precision medicine; and **causal inference with multiple instruments**, particularly over-identified instrumental variable settings. I am happy to discuss any of them. Feel free to [reach out](mailto:aniruddhan_ganesaraman@unc.edu), and see the [Recent News](/#recent-news) section on the homepage for the latest updates!
 
-Most of these projects are ongoing — I am happy to discuss any of them. Feel free to [reach out](mailto:aniruddhan_ganesaraman@unc.edu), and see the [Recent News](/#recent-news) section on the homepage for the latest updates!
+## Submitted Papers
+
+
 
 ## Course Projects in UNC
 
@@ -29,6 +31,7 @@ Course projects have been an important part of my research development at UNC. T
 
 I have made a deliberate effort to attend conferences and workshops across a variety of areas. I find that broad exposure to different methodologies helps me find my footing and think more creatively.
 
+- **[American Causal Inference Conference (ACIC) 2026](https://sci-info.org/2026-meeting-2/)** (May 2026) - 
 - **[Conference on Extreme Value Analysis 2025](https://eva2025.unc.edu/)** (June 2025) — Volunteered at this international conference hosted at UNC Chapel Hill, NC. A great introduction to the breadth of extreme value theory and its applications across climate science, public health, and finance.
 - **[DAIR³ — Data and AI Intensive Research with Rigor and Reproducibility](https://dair-3.org/)** (May 2025) — An NIH-supported weeklong bootcamp focused on rigorous and reproducible biomedical data science, covering ethical AI, data management, analytical design, and reproducible workflows. Held at [Jackson State University](https://www.jsums.edu), Jackson, MS.
 - **Mini-course by [Prof. Remco van der Hofstad](https://www.win.tue.nl/~rhofstad/)** (Oct 2024) — Attended a short course on *Dynamic Processes on Networks* offered in the STOR department at UNC Chapel Hill.
