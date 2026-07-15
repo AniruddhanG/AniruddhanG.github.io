@@ -16,7 +16,12 @@ There is something deeply satisfying about the moment a concept clicks for a stu
 
 ### Lead Instructor
 
-- <span style="color:#999;">**Jun '26 - Jul '26** - I will be the primary instructor of STOR 155 (Introduction to Data Models and Inference) in the summer semester, responsible for all lectures, assessments, and course administration! Read [my feature in INDY Week](https://indyweek.com/sponsored/inside-unc-summer-school-career-relevant-skills-for-every-stage-of-learner/) about teaching STOR 155. (Cancelled due to low enrollment)</span>
+- **Aug '26 - Dec '26** - I will be the primary instructor of STOR 155 (Introduction to Data Models and Inference) in the Fall 2026 semester, responsible for all lectures, assessments, and course administration. 
+
+- **Jun - Aug 2026** — Paid tutor for first-year PhD students preparing for the department's **Comprehensive Written Examinations (CWEs)** in Theoretical Statistics and Probability Theory (two separate sections). Led tutorials covering theoretical background, practice problems, and Q&A. \| Theoretical Statistics: [[Problem List](https://www.dropbox.com/scl/fi/zx2lch3uzlrnaet4zc26n/CWE-Theoretical-Statistics.pdf?rlkey=k4vdt89qmfhpc6snweouyrn9q&st=m3m92j6y&dl=0)] [[Playlist](https://youtube.com/playlist?list=PLujNR8hHVus5sLV2iKtOsmrCw2lkzxTUU&si=0q_eZwTen4hN0Lwx)] \| Probability Theory: [[Problem List](https://www.dropbox.com/scl/fi/74utm4funth9qg5h3jn1l/CWE-Probability-Theory.pdf?rlkey=fyrgq1wn0iy9lt8bhbsm2k87p&st=fd76ibje&dl=0)]
+
+- <span style="color:#999;">**Jun '26 - Jul '26** - I was to be the primary instructor of STOR 155 (Introduction to Data Models and Inference) in the summer semester, but the course got cancelled because of low enrolment. Read [my feature in INDY Week](https://indyweek.com/sponsored/inside-unc-summer-school-career-relevant-skills-for-every-stage-of-learner/) about teaching STOR 155. </span>
+
 - **Aug '25 - Dec '25** — Served as the lead instructor along with [Dr. Panagiotis Andreou](https://www.linkedin.com/in/panagiotis-andreou-b58a5b131) for the incoming PhD student bootcamp in the Department of Statistics and Operations Research, covering foundational topics in Real Analysis and Linear Algebra over the course of 8 weeks. [[Course Material](https://drive.google.com/drive/folders/1xPRmMQumq160zM-vchiYXc-T3X433QaD)]
 
 ### Teaching Assistantships
