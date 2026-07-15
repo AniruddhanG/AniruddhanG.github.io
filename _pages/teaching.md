@@ -30,6 +30,9 @@ As a TA, my responsibilities included grading homework assignments and exams, ho
 
 | Semester | Course Number | Course Name | Instructor |
 |---|---|---|---|
+| Summer 2026 | STOR 455 | Methods of Data Analysis | [Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/) | 
+|Summer 2026 | STOR 120 | Foundations of Statistics and Data Science | [Mark Bacon Cahill](https://www.linkedin.com/in/mark-b-cahill) |
+|Summer 2026 | STPR 455 | Methods of Data Analysis | [Prof. Oluremi Abayomi](https://oluremiabayomi.github.io) |
 | Spring 2026 | STOR 635 | (Graduate) Probability II  | [Prof. Sayan Banerjee](https://sayan.web.unc.edu) |
 | Fall 2025 | STOR 634 | (Graduate) Probability I | [Prof. Benjamin Seeger](https://sites.google.com/view/seegerbenjamin/home) |
 | Summer 2025 | STOR 455 | Methods of Data Analysis | [Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/) | 
