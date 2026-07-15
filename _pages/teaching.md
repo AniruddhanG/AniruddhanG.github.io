@@ -2,6 +2,9 @@
 title: "Teaching"
 permalink: /teaching/
 search: true
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
 
 There is something deeply satisfying about the moment a concept clicks for a student — and I find myself constantly thinking about how to make that happen more reliably. My teaching philosophy is simple: *I try to explain things the way I would have wanted them explained to me.* 
@@ -10,12 +13,9 @@ There is something deeply satisfying about the moment a concept clicks for a stu
 
 ## Teaching at UNC Chapel Hill
 
-### Instructor of Record
+### Lead Instructor
 
-- **Jun '26 - Jul '26** - I will be the primary instructor of STOR 155 (Introduction to Data Models and Inference) in the summer semester, responsible for all lectures, assessments, and course administration! Read [my feature in INDY Week](https://indyweek.com/sponsored/inside-unc-summer-school-career-relevant-skills-for-every-stage-of-learner/) about teaching STOR 155.
-
-### Bootcamp 
-
+- <span style="color:#999;">**Jun '26 - Jul '26** - I will be the primary instructor of STOR 155 (Introduction to Data Models and Inference) in the summer semester, responsible for all lectures, assessments, and course administration! Read [my feature in INDY Week](https://indyweek.com/sponsored/inside-unc-summer-school-career-relevant-skills-for-every-stage-of-learner/) about teaching STOR 155. (Cancelled due to low enrollment)</span>
 - **Aug '25 - Dec '25** — Served as the lead instructor along with [Dr. Panagiotis Andreou](https://www.linkedin.com/in/panagiotis-andreou-b58a5b131) for the incoming PhD student bootcamp in the Department of Statistics and Operations Research, covering foundational topics in Real Analysis and Linear Algebra over the course of 8 weeks. [[Course Material](https://drive.google.com/drive/folders/1xPRmMQumq160zM-vchiYXc-T3X433QaD)]
 
 ### Teaching Assistantships

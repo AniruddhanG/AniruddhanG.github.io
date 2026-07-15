@@ -2,6 +2,9 @@
 title: "Talks & Outreach"
 permalink: /talks-and-outreach/
 search: true
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
 
 ## Research Talks
