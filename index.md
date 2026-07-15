@@ -16,6 +16,8 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 ## Recent News
 
+<div class="recent-news-scroll" markdown="1">
+
 - **14 July 2026** - Paper accepted for presentation at the [2026 INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu): *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu). 
 
 - **13 July 2026** - Submited *Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu), to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom)!
@@ -35,6 +37,12 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 - **07 March 2026** — Awarded *Best Methodological Rigor* in the [CAIPH Datathon 2026](https://sph.unc.edu/resource-pages/caiph-datathon/) held from Mar 06 - 07, 2026. [[Certificate](https://www.dropbox.com/scl/fi/jz27xjs0tr88gj8azpuv1/CAIPH2026-DatathonAwards-GreenTeam.pdf?rlkey=jb6c67stpe60i6k8ppup9rno1&st=c1xkxj89&dl=0)] [[Slides](https://www.dropbox.com/scl/fi/fsh3qyjy6bg0dawy9lqi6/Datathon_NHANES_SDOH-and-LC9.pdf?rlkey=pdteqtq6lhxmi31r3u4qyxx8z&st=ppqxoi5v&dl=0)]
 
 - **04 Dec 2025** — Recipient of the *Dr. Xin Ge Graduate Student Excellence Award*, recognizing the best-performing first-year PhD student in the department (see page 15 of the [department newsletter](https://stor.unc.edu/wp-content/uploads/sites/1319/2026/01/STORies-2024-2025.pdf)). 
+
+</div>
+
+<style>
+.recent-news-scroll { max-height: 420px; overflow-y: auto; border: 1px solid rgba(128,128,128,0.25); border-radius: 6px; padding: 0.2em 1.2em; }
+</style>
 
 ---
 

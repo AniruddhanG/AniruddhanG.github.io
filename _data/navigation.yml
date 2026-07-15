@@ -7,6 +7,8 @@ main:
     url: /teaching/
   - title: "Talks & Outreach"
     url: /talks-and-outreach/
+  - title: "Personal"
+    url: /personal/
   - title: "CV"
     url: /assets/files/CV_2026_Aniruddhan_Ganesaraman.pdf
     target: "_blank"
