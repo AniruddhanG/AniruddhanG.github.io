@@ -6,7 +6,7 @@ description: "Homepage of Aniruddhan Ganesaraman, PhD student in Statistics and 
 
 Welcome to my homepage! 
 
-I'm Ani, a 2nd year PhD student in the [Department of Statistics and Operations Research](https://stor.unc.edu) at [The University of North Carolina at Chapel Hill](https://www.unc.edu). I am fortunate to be advised by [Prof. Patrick Lopatto](https://lopat.to) and [Prof. Michael Kosorok](https://mkosorok.web.unc.edu). My research interests include **precision medicine**, **causal inference**, and **adaptive policy learning**. 
+I'm Ani, a 3rd year PhD student in the [Department of Statistics and Operations Research](https://stor.unc.edu) at [The University of North Carolina at Chapel Hill](https://www.unc.edu). I am fortunate to be advised by [Prof. Patrick Lopatto](https://lopat.to) and [Prof. Michael Kosorok](https://mkosorok.web.unc.edu). My research interests include **precision medicine**, **causal inference**, and **adaptive policy learning**. 
 
 I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in/index) and my undergraduate in Mathematics and Computer Science from [Chennai Mathematical Institute, Chennai, India](https://www.cmi.ac.in). My full CV is <a href="/assets/files/CV_2026_Aniruddhan_Ganesaraman.pdf" target="_blank">here</a>.
 
@@ -19,13 +19,13 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 <div class="recent-news-scroll" markdown="1">
 
-- **14 July 2026** — Paper accepted for presentation at the [2026 INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu): *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu). 
+- **14 July 2026** — Paper accepted for presentation at the [2026 INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu): *"Proactive Inpatient Bed Requests for Emergency Department Admissions"* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu). 
 
-- **13 July 2026** — Submited *Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu), to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom)!
+- **13 July 2026** — Submited *"Proactive Inpatient Bed Requests for Emergency Department Admissions"*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu), to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom). 
 
-- **27 June 2026** — Submited *Data Driven Block Replacement Scheduling* (joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu)) to [Operations Research](https://pubsonline.informs.org/journal/opre)!
+- **27 June 2026** — Submited *"Data Driven Block Replacement Scheduling"*, joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu), to [Operations Research](https://pubsonline.informs.org/journal/opre). 
 
-- **02 June 2026** - Paper accepted for presentation at the [American Public Health Association 2026 Annual Meeting](https://www.apha.org/events-and-meetings/annual) (San Antonio, Texas, Nov 01 - 04): *Machine learning-based heterogeneous causal effects of SDOH on cardiovascular health across sociodemographic characteristics* with [Iheoma Iruka](https://www.iheomairuka.com), [Safoora Masoumi](https://www.linkedin.com/in/safoora-masoumi-408440140), [Rachel Vaughn](https://scholar.google.com/citations?user=w70V18IAAAAJ&hl=en), and [Anthony Wang](https://www.linkedin.com/in/andong-wang). 
+- **02 June 2026** - Paper accepted for presentation at the [American Public Health Association 2026 Annual Meeting](https://www.apha.org/events-and-meetings/annual) (San Antonio, Texas, Nov 01 - 04): *"Machine learning-based heterogeneous causal effects of SDOH on cardiovascular health across sociodemographic characteristics"* with [Iheoma Iruka](https://www.iheomairuka.com), [Safoora Masoumi](https://www.linkedin.com/in/safoora-masoumi-408440140), [Rachel Vaughn](https://scholar.google.com/citations?user=w70V18IAAAAJ&hl=en), and [Anthony Wang](https://www.linkedin.com/in/andong-wang). 
 
 - **13 May 2026** — Awarded Honorable Mention in the [Tom Ten Have poster competition](https://sci-info.org/tom-ten-have-award/) at the [American Causal Inference Conference (ACIC) 2026](https://sci-info.org/2026-meeting-2/) (Salt Lake City, Utah, May 11 – 14): *"Estimating a Common Local Average Treatment Effect with Multiple Instrumental Variables"* with [Patrick Lopatto](https://lopat.to) and [P. M. Aronow](https://pmaronow.github.io).
 
