@@ -12,7 +12,69 @@ Current projects include work on **adaptive treatment policies** using online le
 
 ## Submitted Papers
 
+<ol class="submitted-papers">
 
+<li markdown="1">
+
+*Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) — submitted to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom).
+
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7115720){:target="_blank"}
+
+<details class="bibtex-details">
+<summary>BibTeX</summary>
+<pre><code id="bibtex-proactive-beds">@unpublished{cheng2026proactivebeds,
+  author = {Cheng, Qian and Argon, Nilay Tanik and Ganesaraman, Aniruddhan and Ziya, Serhan},
+  title  = {Proactive Inpatient Bed Requests for Emergency Department Admissions},
+  note   = {Submitted to Manufacturing \&amp; Service Operations Management},
+  year   = {2026},
+  url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7115720}
+}</code></pre>
+<button type="button" class="bibtex-copy-btn" onclick="copyBibtex('bibtex-proactive-beds', this)">Copy BibTeX</button>
+</details>
+
+</li>
+
+<li markdown="1">
+
+*Data Driven Block Replacement Scheduling*, joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu) — submitted to [Operations Research](https://pubsonline.informs.org/journal/opre).
+
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598){:target="_blank"}
+
+<details class="bibtex-details">
+<summary>BibTeX</summary>
+<pre><code id="bibtex-block-replacement">@unpublished{ganesaraman2026blockreplacement,
+  author = {Ganesaraman, Aniruddhan and Kulkarni, Vidyadhar},
+  title  = {Data Driven Block Replacement Scheduling},
+  note   = {Submitted to Operations Research},
+  year   = {2026},
+  url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598}
+}</code></pre>
+<button type="button" class="bibtex-copy-btn" onclick="copyBibtex('bibtex-block-replacement', this)">Copy BibTeX</button>
+</details>
+
+</li>
+
+</ol>
+
+<script>
+function copyBibtex(id, btn) {
+  var text = document.getElementById(id).innerText;
+  navigator.clipboard.writeText(text).then(function () {
+    var original = btn.innerText;
+    btn.innerText = 'Copied!';
+    setTimeout(function () { btn.innerText = original; }, 1500);
+  });
+}
+</script>
+
+<style>
+.submitted-papers { padding-left: 1.4em; }
+.submitted-papers li { margin-bottom: 1.4em; }
+.bibtex-details { margin-top: 0.5em; }
+.bibtex-details summary { cursor: pointer; font-weight: 600; }
+.bibtex-details pre { margin-top: 0.5em; }
+.bibtex-copy-btn { margin-top: 0.5em; }
+</style>
 
 ## Course Projects in UNC
 

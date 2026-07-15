@@ -18,7 +18,7 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 - **14 July 2026** - Paper accepted for presentation at the [2026 INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu): *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu). 
 
-- **13 July 2026** - Submited *Proactive Inpatient Bed Requests for Emergency Department Admissions* (joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu)) to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom)!
+- **13 July 2026** - Submited *Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu), to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom)!
 
 - **27 June 2026** - Submited *Data Driven Block Replacement Scheduling* (joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu)) to [Operations Research](https://pubsonline.informs.org/journal/opre)!
 
