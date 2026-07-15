@@ -5,6 +5,7 @@ search: true
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+description: "Teaching experience of Aniruddhan Ganesaraman, including instructor and teaching assistant roles at UNC Chapel Hill, the Indian Statistical Institute, and Chennai Mathematical Institute."
 ---
 
 There is something deeply satisfying about the moment a concept clicks for a student — and I find myself constantly thinking about how to make that happen more reliably. My teaching philosophy is simple: *I try to explain things the way I would have wanted them explained to me.* 

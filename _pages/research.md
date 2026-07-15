@@ -5,13 +5,14 @@ search: true
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+description: "Research interests, submitted papers, and course projects of Aniruddhan Ganesaraman, PhD student in Statistics & Operations Research at UNC Chapel Hill, focused on precision medicine, causal inference, and sequential decision-making."
 ---
 
 ## Research Interests
 
 My research is at the intersection of precision medicine, causal inference, and sequential decision-making, with applications in healthcare. I am broadly interested in problems where rigorous statistical thinking can directly inform policy and intervention design.
 
-Current projects include work on **adaptive treatment policies** using online learning in precision medicine; and **causal inference with multiple instruments**, particularly over-identified instrumental variable settings. I am happy to discuss any of them. Feel free to [reach out](mailto:aniruddhan_ganesaraman@unc.edu), and see the [Recent News](/#recent-news) section on the homepage for the latest updates!
+Current projects include work on **adaptive treatment policies** using online learning in precision medicine, and **causal inference with multiple instruments**, particularly over-identified instrumental variable settings — I'd be happy to discuss either in more depth. Feel free to [reach out](mailto:aniruddhan_ganesaraman@unc.edu), and see the [Recent News](/#recent-news) section on the homepage for the latest updates!
 
 ## Submitted Papers
 
@@ -121,9 +122,9 @@ Course projects have been an important part of my research development at UNC. T
 
 I have made a deliberate effort to attend conferences and workshops across a variety of areas. I find that broad exposure to different methodologies helps me find my footing and think more creatively.
 
-- **[INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/)** (Nov 2026, San Francisco, CA) — Invited to speak in the MSOM Service Operations session honoring [Prof. Vidyadhar Kulkarni's](https://vkulkarn.web.unc.edu) retirement, presenting *"Data-Driven Block Replacement Scheduling"*, joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu).
-- **[2026 INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu)** (Jul 2026, Raleigh, NC) — Presenting *"Proactive Inpatient Bed Requests for Emergency Department Admissions"*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu).
-- **[2026 INFORMS Healthcare Conference](https://meetings.informs.org/wordpress/healthcare/)** (Jul 2026, Raleigh, NC) — Presenting *"Proactive Inpatient Bed Requests for Emergency Department Admissions"*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu).
+- **[INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/)** (Nov 2026, San Francisco, CA) — *Upcoming:* Invited to speak in the MSOM Service Operations session honoring [Prof. Vidyadhar Kulkarni's](https://vkulkarn.web.unc.edu) retirement, presenting *"Data-Driven Block Replacement Scheduling"*, joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu).
+- **[2026 INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu)** (Jul 2026, Raleigh, NC) — *Upcoming:* Presenting *"Proactive Inpatient Bed Requests for Emergency Department Admissions"*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu).
+- **[2026 INFORMS Healthcare Conference](https://meetings.informs.org/wordpress/healthcare/)** (Jul 2026, Raleigh, NC) — *Upcoming:* Presenting *"Proactive Inpatient Bed Requests for Emergency Department Admissions"*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu).
 - **[American Causal Inference Conference (ACIC) 2026](https://sci-info.org/2026-meeting-2/)** (May 2026, Salt Lake City, UT) — Presented a latebreaker poster, *"Estimation of a Common Local Average Treatment Effect with Multiple Instruments"*, joint work with [Patrick Lopatto](https://lopat.to) and [P. M. Aronow](https://pmaronow.github.io); awarded Honorable Mention in the [Tom Ten Have poster competition](https://sci-info.org/tom-ten-have-award/).
 - **[Conference on Extreme Value Analysis 2025](https://eva2025.unc.edu/)** (Jun 2025) — Volunteered at this international conference hosted at UNC Chapel Hill, NC. A great introduction to the breadth of extreme value theory and its applications across climate science, public health, and finance.
 - **[DAIR³ — Data and AI Intensive Research with Rigor and Reproducibility](https://dair-3.org/)** (May 2025) — An NIH-supported weeklong bootcamp focused on rigorous and reproducible biomedical data science, covering ethical AI, data management, analytical design, and reproducible workflows. Held at [Jackson State University](https://www.jsums.edu), Jackson, MS.

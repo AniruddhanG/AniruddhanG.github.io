@@ -5,6 +5,7 @@ search: true
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+description: "Research talks and outreach activities by Aniruddhan Ganesaraman, including seminar and conference presentations plus math outreach programs for students."
 ---
 
 ## Research Talks
