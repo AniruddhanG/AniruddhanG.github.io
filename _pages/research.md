@@ -12,25 +12,34 @@ Current projects include work on **adaptive treatment policies** using online le
 
 ## Submitted Papers
 
-<ol class="submitted-papers">
+<ol class="submitted-papers" reversed start="2">
 
 <li markdown="1">
 
 *Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) — submitted to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom).
 
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7115720){:target="_blank"}
+<div class="paper-links">
+<a class="paper-box" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7115720" target="_blank" rel="noopener">SSRN ↗</a>
+<button type="button" class="paper-box" onclick="toggleBox('abstract-box-proactive-beds')">Abstract</button>
+<button type="button" class="paper-box" onclick="toggleBox('bibtex-box-proactive-beds')">BibTeX</button>
+</div>
 
-<details class="bibtex-details">
-<summary>BibTeX</summary>
-<pre><code id="bibtex-proactive-beds">@unpublished{cheng2026proactivebeds,
+<div id="abstract-box-proactive-beds" class="content-box" style="display:none;">
+<p><strong>Problem definition:</strong> Emergency department (ED) boarding occurs when patients admitted to the hospital remain in the ED while waiting for inpatient beds. Boarding is viewed as a major driver of ED crowding and has been associated with poor patient outcomes. We propose a framework to help EDs reduce boarding time and total length of stay by using information about current ED patients and hospital bed availability to proactively request inpatient beds before admission decisions are finalized.</p>
+<p><strong>Methodology/results:</strong> We formulate the problem as a Markov decision process in which predictions of each patient's probability of hospital admission and time to disposition are aggregated to guide early inpatient bed requests. This formulation leads to three data-driven policies based on approximate dynamic programming, reinforcement learning, and a newsvendor-type approach. Using a simulation model based on data from a large ED, we evaluate these policies across a wide range of settings. The simulation study shows that proactive aggregate bed requests can reduce average boarding times for admitted patients by 30–70% and average length of stay for all ED patients by 6–15%, while creating only modest idle time for prepared inpatient beds. The newsvendor heuristic provides the most attractive tradeoff between ED performance and inpatient bed idle time, whereas the reinforcement learning-based heuristic produces smoother bed-request patterns when stability in downstream hospital processes is especially important.</p>
+<p><strong>Managerial implications:</strong> Our work shows how EDs can use prediction tools to make proactive, ED-level bed-request decisions that improve ED operations while helping managers balance reductions in ED delays against limited idle time for prepared inpatient beds. Our findings also illustrate the value of evaluating both simple myopic heuristics and more sophisticated reinforcement learning-based approaches in this operational problem, since each can offer distinct advantages depending on the performance measures and implementation constraints most important to managers.</p>
+</div>
+
+<div id="bibtex-box-proactive-beds" class="content-box" style="display:none;">
+<pre><code id="bibtex-code-proactive-beds">@unpublished{cheng2026proactivebeds,
   author = {Cheng, Qian and Argon, Nilay Tanik and Ganesaraman, Aniruddhan and Ziya, Serhan},
   title  = {Proactive Inpatient Bed Requests for Emergency Department Admissions},
   note   = {Submitted to Manufacturing \&amp; Service Operations Management},
   year   = {2026},
   url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7115720}
 }</code></pre>
-<button type="button" class="bibtex-copy-btn" onclick="copyBibtex('bibtex-proactive-beds', this)">Copy BibTeX</button>
-</details>
+<button type="button" class="bibtex-copy-btn" onclick="copyBibtex('bibtex-code-proactive-beds', this)">Copy BibTeX</button>
+</div>
 
 </li>
 
@@ -38,25 +47,38 @@ Current projects include work on **adaptive treatment policies** using online le
 
 *Data Driven Block Replacement Scheduling*, joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu) — submitted to [Operations Research](https://pubsonline.informs.org/journal/opre).
 
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598){:target="_blank"}
+<div class="paper-links">
+<a class="paper-box" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598" target="_blank" rel="noopener">SSRN ↗</a>
+<button type="button" class="paper-box" onclick="toggleBox('abstract-box-block-replacement')">Abstract</button>
+<button type="button" class="paper-box" onclick="toggleBox('bibtex-box-block-replacement')">BibTeX</button>
+</div>
 
-<details class="bibtex-details">
-<summary>BibTeX</summary>
-<pre><code id="bibtex-block-replacement">@unpublished{ganesaraman2026blockreplacement,
+<div id="abstract-box-block-replacement" class="content-box" style="display:none;">
+<p>We develop data-driven algorithms for maintaining N independent identical machines under a block replacement policy, in which each machine is replaced upon failure and all machines are jointly replaced at regular intervals of length k. The goal is to learn the cost-minimizing interval k* from operational data when the lifetime distribution is unknown. At each decision epoch, the operator selects k ∈ {1, 2, …, K}, observes the resulting failure history (a mixture of complete and right-censored lifetimes) and incurs a per-unit-time cost governed by the renewal function. We formulate this as a stochastic multi-armed bandit and propose Hoeffding- and Bernstein-based lower-confidence-bound algorithms achieving O(K log T) regret, matching the Lai–Robbins lower bound. Exploiting a nested observation property unique to block replacement, correlated variants attain O((K - k*) log T) regret and require only O(1) direct pulls of suboptimal arms k &lt; k*. A complementary Kaplan–Meier renewal algorithm estimates the lifetime distribution nonparametrically from censored data, achieving almost-sure policy consistency and empirically near-zero incremental regret at long horizons. We additionally analyze two average-cost MDPs: a time-elapsed formulation establishing that block replacement is optimal within its policy class for any lifetime distribution, and an age-vector formulation proving a monotone threshold structure under increasing failure rate distributions and providing a gold-standard cost benchmark. Numerical experiments confirm the theoretical ordering and reveal structural cost gaps between optimal block and age-dependent replacement.</p>
+<p>Code for replication is publicly available at <a href="https://github.com/AniruddhanG/Block-Replacement-Scheduling" target="_blank" rel="noopener">this GitHub repository</a>.</p>
+</div>
+
+<div id="bibtex-box-block-replacement" class="content-box" style="display:none;">
+<pre><code id="bibtex-code-block-replacement">@unpublished{ganesaraman2026blockreplacement,
   author = {Ganesaraman, Aniruddhan and Kulkarni, Vidyadhar},
   title  = {Data Driven Block Replacement Scheduling},
   note   = {Submitted to Operations Research},
   year   = {2026},
   url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598}
 }</code></pre>
-<button type="button" class="bibtex-copy-btn" onclick="copyBibtex('bibtex-block-replacement', this)">Copy BibTeX</button>
-</details>
+<button type="button" class="bibtex-copy-btn" onclick="copyBibtex('bibtex-code-block-replacement', this)">Copy BibTeX</button>
+</div>
 
 </li>
 
 </ol>
 
 <script>
+function toggleBox(id) {
+  var el = document.getElementById(id);
+  if (!el) return;
+  el.style.display = (el.style.display === 'block') ? 'none' : 'block';
+}
 function copyBibtex(id, btn) {
   var text = document.getElementById(id).innerText;
   navigator.clipboard.writeText(text).then(function () {
@@ -69,11 +91,14 @@ function copyBibtex(id, btn) {
 
 <style>
 .submitted-papers { padding-left: 1.4em; }
-.submitted-papers li { margin-bottom: 1.4em; }
-.bibtex-details { margin-top: 0.5em; }
-.bibtex-details summary { cursor: pointer; font-weight: 600; }
-.bibtex-details pre { margin-top: 0.5em; }
-.bibtex-copy-btn { margin-top: 0.5em; }
+.submitted-papers li { margin-bottom: 1.6em; }
+.paper-links { display: flex; flex-wrap: wrap; gap: 0.6em; margin: 0.7em 0; }
+.paper-box { display: inline-block; padding: 0.35em 0.9em; border: 1px solid currentColor; border-radius: 4px; font-size: 0.9em; font-weight: 600; text-decoration: none; background: none; cursor: pointer; color: inherit; }
+.paper-box:hover { opacity: 0.7; }
+.content-box { border: 1px solid rgba(128,128,128,0.35); border-radius: 4px; padding: 0.8em 1em; margin: 0 0 0.8em; font-size: 0.92em; }
+.content-box pre { margin: 0 0 0.6em; white-space: pre-wrap; }
+.content-box p:last-child { margin-bottom: 0; }
+.bibtex-copy-btn { padding: 0.25em 0.7em; border: 1px solid currentColor; border-radius: 4px; background: none; cursor: pointer; font-size: 0.85em; color: inherit; }
 </style>
 
 ## Course Projects in UNC
