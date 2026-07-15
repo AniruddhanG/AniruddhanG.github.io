@@ -25,6 +25,8 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 - **27 June 2026** — Submited *Data Driven Block Replacement Scheduling* (joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu)) to [Operations Research](https://pubsonline.informs.org/journal/opre)!
 
+- **02 June 2026** - Paper accepted for presentation at the [American Public Health Association 2026 Annual Meeting](https://www.apha.org/events-and-meetings/annual) (San Antonio, Texas, Nov 01 - 04): *Machine learning-based heterogeneous causal effects of SDOH on cardiovascular health across sociodemographic characteristics* with [Iheoma Iruka](https://www.iheomairuka.com), [Safoora Masoumi](https://www.linkedin.com/in/safoora-masoumi-408440140), [Rachel Vaughn](https://scholar.google.com/citations?user=w70V18IAAAAJ&hl=en), and [Anthony Wang](https://www.linkedin.com/in/andong-wang). 
+
 - **13 May 2026** — Awarded Honorable Mention in the [Tom Ten Have poster competition](https://sci-info.org/tom-ten-have-award/) at the [American Causal Inference Conference (ACIC) 2026](https://sci-info.org/2026-meeting-2/) (Salt Lake City, Utah, May 11 – 14): *"Estimating a Common Local Average Treatment Effect with Multiple Instrumental Variables"* with [Patrick Lopatto](https://lopat.to) and [P. M. Aronow](https://pmaronow.github.io).
 
 - **10 Apr 2026** — Paper accepted for presentation at the [2026 INFORMS Healthcare Conference](https://meetings.informs.org/wordpress/healthcare/) (Raleigh, NC, Jul 28 – 30): *"A Decision Framework for Early Inpatient Bed Requests in Emergency Departments"* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu).
