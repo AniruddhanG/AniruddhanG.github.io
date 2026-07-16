@@ -37,13 +37,8 @@ author:
   bio: "PhD Student in Statistics & Operations Research, UNC Chapel Hill."
   location: "Chapel Hill, NC, USA"
   email: aniruddhan_ganesaraman@unc.edu
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AniruddhanG"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/aniruddhan-ganesaraman"
+  linkedin: "aniruddhan-ganesaraman"
+  github: "AniruddhanG"
 
 footer:
   links:
