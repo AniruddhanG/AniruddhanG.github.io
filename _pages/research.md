@@ -53,7 +53,7 @@ Current projects include work on **adaptive treatment policies** using online le
 *Data Driven Block Replacement Scheduling*, joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu) — submitted to [Operations Research](https://pubsonline.informs.org/journal/opre).
 
 <div class="paper-links">
-<a class="paper-box" href="#" target="_blank" rel="noopener">arXiv ↗</a>
+<a class="paper-box" href="https://arxiv.org/abs/2607.15229" target="_blank" rel="noopener">arXiv ↗</a>
 <a class="paper-box" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598" target="_blank" rel="noopener">SSRN ↗</a>
 <button type="button" class="paper-box" onclick="toggleBox('abstract-box-block-replacement')">Abstract</button>
 <button type="button" class="paper-box" onclick="toggleBox('bibtex-box-block-replacement')">BibTeX</button>
@@ -66,11 +66,13 @@ Current projects include work on **adaptive treatment policies** using online le
 
 <div id="bibtex-box-block-replacement" class="content-box" style="display:none;">
 <pre><code id="bibtex-code-block-replacement">@unpublished{ganesaraman2026blockreplacement,
-  author = {Ganesaraman, Aniruddhan and Kulkarni, Vidyadhar},
-  title  = {Data Driven Block Replacement Scheduling},
-  note   = {Submitted to Operations Research},
-  year   = {2026},
-  url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598}
+  author        = {Ganesaraman, Aniruddhan and Kulkarni, Vidyadhar},
+  title         = {Data Driven Block Replacement Scheduling},
+  note          = {Submitted to Operations Research},
+  year          = {2026},
+  eprint        = {2607.15229},
+  archivePrefix = {arXiv},
+  url           = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598}
 }</code></pre>
 <button type="button" class="bibtex-copy-btn" onclick="copyBibtex('bibtex-code-block-replacement', this)">Copy BibTeX</button>
 </div>
@@ -133,4 +135,4 @@ Early in my PhD, I have made a deliberate effort to attend conferences and works
 | [Conference on Extreme Value Analysis (EVA 2025)](https://eva2025.unc.edu/) | Chapel Hill, NC | Jun 2025 | Volunteered; first exposure to the breadth of extreme value theory and its applications across climate science, public health, and finance |
 | [DAIR³](https://dair-3.org/) | Jackson, MS | May 2025 | NIH-supported weeklong bootcamp on rigorous and reproducible biomedical data science; held at [Jackson State University](https://www.jsums.edu) |
 | Mini-course by [Prof. Remco van der Hofstad](https://www.win.tue.nl/~rhofstad/) | Chapel Hill, NC | Oct 2024 | Short course on *Dynamic Processes on Networks*, hosted by the STOR department at UNC |
-| [Advanced Instructional School in Stochastic Processes (AISSP)](https://www.atmschools.org/) | Bhubaneswar, India | Jun – Jul 2023 | Intensive three-week school on Brownian motion, martingales, and measure theory; held at [NISER Bhubaneswar](https://www.niser.ac.in/) [[Notes & Problem Sets](https://www.dropbox.com/scl/fo/fr94odgb62io82879a85k/h?rlkey=b5osk4fzozj0135oa01eayxb2&e=1&dl=0)] |
+| [Advanced Instructional School in Stochastic Processes (AISSP)](https://www.atmschools.org/) | Bhubaneswar, India | Jul 2023 | Intensive three-week school on Brownian motion, martingales, and measure theory; held at [NISER Bhubaneswar](https://www.niser.ac.in/) [[Notes & Problem Sets](https://www.dropbox.com/scl/fo/fr94odgb62io82879a85k/h?rlkey=b5osk4fzozj0135oa01eayxb2&e=1&dl=0)] |

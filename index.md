@@ -23,7 +23,7 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 - **13 Jul 2026** — Submitted *Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu), to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom); preprint on [arXiv](#). 
 
-- **27 Jun 2026** — Submitted *Data Driven Block Replacement Scheduling*, joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu), to [Operations Research](https://pubsonline.informs.org/journal/opre); preprint on [arXiv](#). 
+- **27 Jun 2026** — Submitted *Data Driven Block Replacement Scheduling*, joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu), to [Operations Research](https://pubsonline.informs.org/journal/opre); preprint on [arXiv](https://arxiv.org/abs/2607.15229). 
 
 - **02 Jun 2026** — Paper accepted for presentation at the [American Public Health Association 2026 Annual Meeting](https://www.apha.org/events-and-meetings/annual) (San Antonio, Texas, Nov 01 – 04): *Machine Learning-Based Heterogeneous Causal Effects of SDOH on Cardiovascular Health Across Sociodemographic Characteristics* with [Iheoma Iruka](https://www.iheomairuka.com), [Safoora Masoumi](https://www.linkedin.com/in/safoora-masoumi-408440140), [Rachel Vaughn](https://scholar.google.com/citations?user=w70V18IAAAAJ&hl=en), and [Anthony Wang](https://www.linkedin.com/in/andong-wang). 
 
