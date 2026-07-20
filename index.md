@@ -21,7 +21,7 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 - **14 Jul 2026** — Paper accepted for presentation at the [2026 INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu): *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu). 
 
-- **13 Jul 2026** — Submitted *Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu), to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom); preprint on [arXiv](#). 
+- **13 Jul 2026** — Submitted *Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu), to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom); preprint on [arXiv](https://arxiv.org/abs/2607.15432). 
 
 - **27 Jun 2026** — Submitted *Data Driven Block Replacement Scheduling*, joint work with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu), to [Operations Research](https://pubsonline.informs.org/journal/opre); preprint on [arXiv](https://arxiv.org/abs/2607.15229). 
 

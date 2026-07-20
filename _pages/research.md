@@ -23,7 +23,7 @@ Current projects include work on **adaptive treatment policies** using online le
 *Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) — submitted to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom).
 
 <div class="paper-links">
-<a class="paper-box" href="#" target="_blank" rel="noopener">arXiv ↗</a>
+<a class="paper-box" href="https://arxiv.org/abs/2607.15432" target="_blank" rel="noopener">arXiv ↗</a>
 <a class="paper-box" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7115720" target="_blank" rel="noopener">SSRN ↗</a>
 <button type="button" class="paper-box" onclick="toggleBox('abstract-box-proactive-beds')">Abstract</button>
 <button type="button" class="paper-box" onclick="toggleBox('bibtex-box-proactive-beds')">BibTeX</button>
@@ -37,11 +37,13 @@ Current projects include work on **adaptive treatment policies** using online le
 
 <div id="bibtex-box-proactive-beds" class="content-box" style="display:none;">
 <pre><code id="bibtex-code-proactive-beds">@unpublished{cheng2026proactivebeds,
-  author = {Cheng, Qian and Argon, Nilay Tanik and Ganesaraman, Aniruddhan and Ziya, Serhan},
-  title  = {Proactive Inpatient Bed Requests for Emergency Department Admissions},
-  note   = {Submitted to Manufacturing \&amp; Service Operations Management},
-  year   = {2026},
-  url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7115720}
+  author        = {Cheng, Qian and Argon, Nilay Tanik and Ganesaraman, Aniruddhan and Ziya, Serhan},
+  title         = {Proactive Inpatient Bed Requests for Emergency Department Admissions},
+  note          = {Submitted to Manufacturing \&amp; Service Operations Management},
+  year          = {2026},
+  eprint        = {2607.15432},
+  archivePrefix = {arXiv},
+  url           = {https://arxiv.org/abs/2607.15432}
 }</code></pre>
 <button type="button" class="bibtex-copy-btn" onclick="copyBibtex('bibtex-code-proactive-beds', this)">Copy BibTeX</button>
 </div>
@@ -72,7 +74,7 @@ Current projects include work on **adaptive treatment policies** using online le
   year          = {2026},
   eprint        = {2607.15229},
   archivePrefix = {arXiv},
-  url           = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598}
+  url           = {https://arxiv.org/abs/2607.15229}
 }</code></pre>
 <button type="button" class="bibtex-copy-btn" onclick="copyBibtex('bibtex-code-block-replacement', this)">Copy BibTeX</button>
 </div>
