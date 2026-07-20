@@ -25,8 +25,8 @@ Current projects include work on **adaptive treatment policies** using online le
 <div class="paper-links">
 <a class="paper-box" href="https://arxiv.org/abs/2607.15432" target="_blank" rel="noopener">arXiv ↗</a>
 <a class="paper-box" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7115720" target="_blank" rel="noopener">SSRN ↗</a>
-<button type="button" class="paper-box" onclick="toggleBox('abstract-box-proactive-beds')">Abstract</button>
-<button type="button" class="paper-box" onclick="toggleBox('bibtex-box-proactive-beds')">BibTeX</button>
+<button type="button" class="paper-box" aria-expanded="false" aria-controls="abstract-box-proactive-beds" onclick="toggleBox('abstract-box-proactive-beds', this)">Abstract</button>
+<button type="button" class="paper-box" aria-expanded="false" aria-controls="bibtex-box-proactive-beds" onclick="toggleBox('bibtex-box-proactive-beds', this)">BibTeX</button>
 </div>
 
 <div id="abstract-box-proactive-beds" class="content-box" style="display:none;">
@@ -57,8 +57,8 @@ Current projects include work on **adaptive treatment policies** using online le
 <div class="paper-links">
 <a class="paper-box" href="https://arxiv.org/abs/2607.15229" target="_blank" rel="noopener">arXiv ↗</a>
 <a class="paper-box" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7010598" target="_blank" rel="noopener">SSRN ↗</a>
-<button type="button" class="paper-box" onclick="toggleBox('abstract-box-block-replacement')">Abstract</button>
-<button type="button" class="paper-box" onclick="toggleBox('bibtex-box-block-replacement')">BibTeX</button>
+<button type="button" class="paper-box" aria-expanded="false" aria-controls="abstract-box-block-replacement" onclick="toggleBox('abstract-box-block-replacement', this)">Abstract</button>
+<button type="button" class="paper-box" aria-expanded="false" aria-controls="bibtex-box-block-replacement" onclick="toggleBox('bibtex-box-block-replacement', this)">BibTeX</button>
 </div>
 
 <div id="abstract-box-block-replacement" class="content-box" style="display:none;">
@@ -84,10 +84,12 @@ Current projects include work on **adaptive treatment policies** using online le
 </ol>
 
 <script>
-function toggleBox(id) {
+function toggleBox(id, btn) {
   var el = document.getElementById(id);
   if (!el) return;
-  el.style.display = (el.style.display === 'block') ? 'none' : 'block';
+  var expanded = el.style.display === 'block';
+  el.style.display = expanded ? 'none' : 'block';
+  if (btn) btn.setAttribute('aria-expanded', String(!expanded));
 }
 function copyBibtex(id, btn) {
   var text = document.getElementById(id).innerText;
@@ -117,10 +119,10 @@ Course projects have been an important part of my research development at UNC. T
 
 | Semester | Course | Project Title | Materials
 |---|---|---|---|
-| Spring 2026 | HPM 883 (Causal Machine Learning) | Benchmarking Estimators of Local Average Treatment Effect | [Github Repo](https://github.com/AniruddhanG/LATE-Estimators) |
+| Spring 2026 | HPM 883 (Causal Machine Learning) | Benchmarking Estimators of Local Average Treatment Effect | [GitHub Repo](https://github.com/AniruddhanG/LATE-Estimators) |
 | Fall 2025 | BIOS 777 (Precision Medicine) | Deep RL for Personalized Treatment Recommendation ([Main Paper](https://pubmed.ncbi.nlm.nih.gov/35716038/)) | [Report](https://www.dropbox.com/scl/fi/je9dhasw81ixf0meo6tt5/777_Final_Report.pdf?rlkey=inwtdo669vr9bop3rdcna5vpq&st=3c6j3yx9&dl=0) \| [Slides](https://www.dropbox.com/scl/fi/vnufm09mal1xnt1asr66h/777_Slides.pdf?rlkey=3hfw0icnn174ftghqkcc472p8&st=f675pe2f&dl=0) | 
 | Fall 2025 | STOR 743 (Reinforcement Learning and MDP) | Deep RL for Personalized Treatment Recommendation ([Main Paper](https://pubmed.ncbi.nlm.nih.gov/35716038/)) | [Report](https://www.dropbox.com/scl/fi/1vssghwf6dpy627coo1z3/743_Final_Report.pdf?rlkey=qifcpiqk78poflt8gmnefat6f&st=7bul3c0u&dl=0) \| [Slides](https://www.dropbox.com/scl/fi/jtph8688sdn0oueu8bfip/743_Slides.pdf?rlkey=8j8fl38vlzwk2o6p55fkf2lza&st=tgmqxrrp&dl=0) | 
-| Fall 2025 | STOR 664 (Applied Statistics I) | NFL Resource Allocations | [Github Repo](https://github.com/AniruddhanG/UNC-STOR-664-Fall-2025-Project-NFLAllocation/tree/main) |
+| Fall 2025 | STOR 664 (Applied Statistics I) | NFL Resource Allocations | [GitHub Repo](https://github.com/AniruddhanG/UNC-STOR-664-Fall-2025-Project-NFLAllocation/tree/main) |
 | Spring 2026 | STOR 672 (Simulations) | Possible causes for increased boarding times | [Report](https://www.dropbox.com/scl/fi/lmv68uy5j1aab0fvzlwxo/672_Project_Report.pdf?rlkey=3p5ahum4cevxlhy49tk3t1zs1&st=dp5qnzhx&dl=0) \| [Slides](https://www.dropbox.com/scl/fi/9h5vhdoil55rkw79xcsii/672-Presentation.pdf?rlkey=yob1jvu580f1v0augc8s38hgt&st=vdr6o2mi&dl=0) | 
 | Fall 2024 | STOR 634 (Probability I) | Bayesian NPI of Topic Hierarchies | [Report](https://www.dropbox.com/scl/fi/9fi42vt18eww5k3yxakq0/634_Project_Final_Report.pdf?rlkey=rqin9ty8qd3jn5mlqqn556tso&st=fhq279lj&dl=0) | 
 

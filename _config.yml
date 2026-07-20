@@ -1,7 +1,7 @@
 title: "Aniruddhan Ganesaraman"
 google_site_verification: "xXvU2nEgaD7Qp4ZdLhvH4zkLQuG3-PYMcAJoHgOVvQ0"
 email: aniruddhan_ganesaraman@unc.edu
-description: "PhD Student in Statistics and Operations Research at UNC Chapel Hill. "
+description: "PhD Student in Statistics and Operations Research at UNC Chapel Hill."
 url: "https://AniruddhanG.github.io"
 baseurl: ""
 github_username: AniruddhanG
@@ -45,12 +45,27 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:aniruddhan_ganesaraman@unc.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AniruddhanG"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/aniruddhan-ganesaraman"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AniruddhanG"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=8yam64MAAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0009-0009-3075-3760"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Aniruddhan-Ganesaraman-3"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-LNDJ2F0QE9"
+    anonymize_ip: true
 
 feed:
   disable: true
