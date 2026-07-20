@@ -15,5 +15,5 @@ A selection of awards and honors I've received throughout my academic career.
 | All India Rank 10, ISI M.Stat. Entrance Examination | [Indian Statistical Institute (ISI)](https://www.isical.ac.in/index) | May 2022 | Nationwide ranking among all applicants |
 | Shriram Scholarship | [Chennai Mathematical Institute](https://www.cmi.ac.in) | Aug 2019 | Full tuition waiver and monthly stipend for all six semesters |
 | [KVPY](https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy) Fellow (SX & SA streams) | [Dept. of Science & Technology](https://dst.gov.in), Govt. of India | 2018, 2019 | |
-| [National Talent Search Examination (NTSE)](https://ncert.nic.in/national-talent-examination.php?ln=en) Scholar | [National Council of Educational Research and Training (NCERT)(https://ncert.nic.in) | 2017 | |
+| [National Talent Search Examination (NTSE)](https://ncert.nic.in/national-talent-examination.php?ln=en) Scholar | [National Council of Educational Research and Training (NCERT)](https://ncert.nic.in) | 2017 | |
 | Global 3rd Prize, [NASA/NSS Space Settlement Contest](https://nss.org/nss-space-settlement-contest/) | [International Space Development Conference](https://nss.org/international-space-development-conference/) | May 2015 | Presented in Toronto, Canada |
