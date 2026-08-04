@@ -14,6 +14,7 @@ Research presentations have been invaluable beyond just disseminating work — t
 
 | Date | Title | Organizer | Materials |
 |---|---|---|---|
+| 29 Jul 2026 | Proactive Inpatient Bed Requests for Emergency Department Admissions | [INFORMS Healthcare Conference](https://meetings.informs.org/wordpress/healthcare/) | [Slides](https://www.dropbox.com/scl/fi/xu8muif4xromjvtesoz25/INFORMS-Healthcare-ED-Boarding.pdf?rlkey=oxlydq7mk1bmjoj0v41goym5m&st=hng684wa&dl=0) | 
 | 14 May 2026 | *Estimation of a Common Local Average Treatment Effect with Multiple Instruments* | [American Causal Inference Conference](https://sci-info.org/2026-meeting-2/) | | 
 | 10 Apr 2026 | *A Decision Framework for Early Inpatient Bed Requests in Emergency Departments* | Department's Graduate Student Seminar (GSS) | [Slides](https://www.dropbox.com/scl/fi/f8rq2okvol2qjv4jlp98k/GSS-ED-Boarding-April-2026.pdf?rlkey=gypgqraqzmws2zwpsc67uz0yh&st=aawqnbbb&dl=0) |
 | 24 Mar 2026 | *Data Driven Block Replacement Scheduling* | GSS | [Slides](https://www.dropbox.com/scl/fi/h9miv5ceegvi16uyd4prl/GSS-Block-Replacement.pdf?rlkey=sl14f6kgnrmd0on6ssw3apk6v&st=jeu9lsa1&dl=0) | 
