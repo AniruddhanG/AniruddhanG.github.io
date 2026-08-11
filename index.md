@@ -19,6 +19,12 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 
 <div class="recent-news-scroll" markdown="1">
 
+- **10 Aug 2026** - Submitted *Heterogeneous Causal Effects of Social Determinants of Health on Cardiovascular Health Across Sociodemographic Characteristics*, joint work with [Andong Wang](linkedin.com/in/andong-wang), [Rachel M. Vaughn](https://scholar.google.com/citations?hl=en&user=w70V18IAAAAJ&view_op=list_works&sortby=pubdate), [Safoora Masoumi](https://scholar.google.com/citations?user=hkMxKQEAAAAJ&hl=en), and [Iheoma U. Iruka](https://www.iheomairuka.com), to [American Journal of Public Health](https://ajph.aphapublications.org). 
+
+- **08 Aug 2026** - Discussion paper *"Discussion of Hypothesis Testing for Treatment Effect Heterogeneity via an Adaptively Augmented Debiased Estimator"* accepted for publication in [ASA Discoveries](https://www.tandfonline.com/journals/uasd20), joint work with [Annika Clevens](https://www.linkedin.com/in/annika-cleven/), [Xinyi Li](https://sites.google.com/view/li-xinyi), [Margaret Hoch](https://www.linkedin.com/in/molly-hoch/), [Keshav Saxena](https://www.linkedin.com/in/keshav-saxena-9494b6206/), [Matthew Egberg](https://www.med.unc.edu/pediatrics/people/matthew-egberg-md-mph-mmsc/), [Bryce Rowland](https://sph.unc.edu/adv_profile/bryce-rowland/), and [Michael R. Kosorok](https://mkosorok.web.unc.edu). 
+
+- **07 Aug 2026** - Paper accepted for poster presentation at [YinzOR 2026](https://yinzor.cmuinforms.org): *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu). 
+
 - **14 Jul 2026** — Paper accepted for presentation at the [2026 INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu): *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu). 
 
 - **13 Jul 2026** — Submitted *Proactive Inpatient Bed Requests for Emergency Department Admissions*, joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu), to [Manufacturing & Service Operations Management](https://pubsonline.informs.org/journal/msom); preprint on [arXiv](https://arxiv.org/abs/2607.15432). 
