@@ -1,1 +1,0 @@
-Drop each lecture's slide PDF in this folder named `classNN.pdf` (e.g. `class01.pdf` for Class 1, `class02.pdf` for Class 2, ...). The Course Schedule table on [/stor155/](/stor155/) links to these paths, so the file will appear automatically once uploaded — no need to edit the page.
