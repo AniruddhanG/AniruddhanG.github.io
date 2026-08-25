@@ -16,7 +16,7 @@ There is something deeply satisfying about the moment a concept clicks for a stu
 
 ### Lead Instructor
 
-- **Aug '26 – Dec '26** — I will be the primary instructor of *STOR 155 (Introduction to Data Models and Inference)* in the Fall 2026 semester, responsible for all lectures, assessments, and course administration. 
+- **Aug '26 – Dec '26** — I will be the primary instructor of *STOR 155 (Introduction to Data Models and Inference)* in the Fall 2026 semester, responsible for all lectures, assessments, and course administration. \| [[Course Website](/stor155/)]
 
 - **Jun '26 – Aug '26** — Paid tutor for first-year PhD students preparing for the department's *Comprehensive Written Examinations (CWEs)* in Theoretical Statistics and Probability Theory (two separate sections). Led tutorials covering theoretical background, practice problems, and Q&A. 
 \| Theoretical Statistics: [[Problem List](https://www.dropbox.com/scl/fi/zx2lch3uzlrnaet4zc26n/CWE-Theoretical-Statistics.pdf?rlkey=k4vdt89qmfhpc6snweouyrn9q&st=m3m92j6y&dl=0)] [[Playlist](https://youtube.com/playlist?list=PLujNR8hHVus5sLV2iKtOsmrCw2lkzxTUU&si=0q_eZwTen4hN0Lwx)] \| Probability Theory: [[Problem List](https://www.dropbox.com/scl/fi/74utm4funth9qg5h3jn1l/CWE-Probability-Theory.pdf?rlkey=fyrgq1wn0iy9lt8bhbsm2k87p&st=fd76ibje&dl=0)]
