@@ -113,4 +113,4 @@ This course will enable you to:
 | 27 | Tu | 24 Nov | Inference for Means, t-Distribution, Paired Data | 7.1, 7.2 | [Slides](/assets/files/stor155fall2026/slides/class27.pdf) |
 | - | Th | 26 Nov | *No class, Thanksgiving break* | | |
 | 28 | Tu | 01 Dec | Inference for Paired Data, Difference of Means | 7.2, 7.3 | [Slides](/assets/files/stor155fall2026/slides/class28.pdf) |
-|  **Th** | **10 Dec** | **Final Exam** | **Cumulative** | |
+| |  **Th** | **10 Dec** | **Final Exam** | **Cumulative** | 

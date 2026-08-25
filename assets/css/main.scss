@@ -18,8 +18,10 @@ $doc-font-size: 15;
 
   > a::after {
     content: "\25BE";
+    display: inline-block;
     margin-inline-start: 0.35em;
-    font-size: 0.7em;
+    font-size: 1.1em;
+    vertical-align: middle;
   }
 }
 
