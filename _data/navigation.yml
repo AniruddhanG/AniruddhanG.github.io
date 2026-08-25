@@ -7,8 +7,9 @@ main:
     url: /awards/
   - title: "Teaching"
     url: /teaching/
-  - title: "STOR 155"
-    url: /stor155fall2026/
+    children:
+      - title: "STOR 155"
+        url: /stor155fall2026/
   - title: "Talks & Outreach"
     url: /talks-and-outreach/
   - title: "Personal"

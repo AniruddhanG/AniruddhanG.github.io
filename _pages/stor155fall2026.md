@@ -80,8 +80,6 @@ This course will enable you to:
 
 ## Course Schedule & Slides
 
-Slides are linked directly in the table below as they're posted. To add one, save the lecture's PDF as `classNN.pdf` in `/assets/files/stor155fall2026/slides/`, and the link starts working automatically.
-
 | Class | Day | Date | Topic(s) | Reference | Slides |
 |---|---|---|---|---|---|
 | 1 | Tu | 18 Aug | Introduction and Case Study, Data Basics | 1.1, 1.2 | [Slides](/assets/files/stor155fall2026/slides/class01.pdf) |
@@ -115,4 +113,4 @@ Slides are linked directly in the table below as they're posted. To add one, sav
 | 27 | Tu | 24 Nov | Inference for Means, t-Distribution, Paired Data | 7.1, 7.2 | [Slides](/assets/files/stor155fall2026/slides/class27.pdf) |
 | - | Th | 26 Nov | *No class, Thanksgiving break* | | |
 | 28 | Tu | 01 Dec | Inference for Paired Data, Difference of Means | 7.2, 7.3 | [Slides](/assets/files/stor155fall2026/slides/class28.pdf) |
-| | | **Final Exam (Common Hour): Thursday, Dec. 10, 16:00-19:00** | Cumulative | |
+|  **Th** | **10 Dec** | **Final Exam** | **Cumulative** | |
