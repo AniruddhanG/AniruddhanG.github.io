@@ -70,47 +70,49 @@ This course will enable you to:
 
 ## Exam Dates
 
-| Exam | Date | Syllabus |
-|---|---|---|
-| Midterm 1 | 24 Sep '26 (Th) | Class 1-12 |
-| Midterm 2 | 05 Nov '26 (Th) | Class 13-22 |
-| Final | 10 Dec '26 (Th), 16:00-19:00 | Cumulative |
+| Exam | Date | 
+|---|---|
+| Midterm 1 | 24 Sep '26 (Th) | 
+| Midterm 2 | 05 Nov '26 (Th) | 
+| Final | 10 Dec '26 (Th), 16:00-19:00 | 
 
 ---
 
 ## Course Schedule & Slides
 
-| Class | Day | Date | Topic(s) | Reference | Slides |
-|---|---|---|---|---|---|
-| 1 | Tu | 18 Aug | Introduction and Case Study, Data Basics | 1.1, 1.2 | [Slides](/assets/files/stor155fall2026/slides/class01.pdf) |
-| 2 | Th | 20 Aug | Data Basics | 1.2 | [Slides](/assets/files/stor155fall2026/slides/class02.pdf) |
-| 3 | Tu | 25 Aug | Data Collection and Sampling Strategies, Experiments | 1.3, 1.4 | [Slides](/assets/files/stor155fall2026/slides/class03.pdf) |
-| 4 | Th | 27 Aug | Numerical Data | 1.4, 2.1 | [Slides](/assets/files/stor155fall2026/slides/class04.pdf) |
-| 5 | Tu | 01 Sep | Numerical Data, Categorical Data | 2.1, 2.2 | [Slides](/assets/files/stor155fall2026/slides/class05.pdf) |
-| 6 | Th | 03 Sep | Correlation | 8.1 | [Slides](/assets/files/stor155fall2026/slides/class06.pdf) |
-| 7 | Tu | 08 Sep | Correlation, Linear Regression | 8.1, 8.2 | [Slides](/assets/files/stor155fall2026/slides/class07.pdf) |
-| 8 | Th | 10 Sep | Linear Regression | 8.2 | [Slides](/assets/files/stor155fall2026/slides/class08.pdf) |
-| 9 | Tu | 15 Sep | Basic Probability | 3.1 | [Slides](/assets/files/stor155fall2026/slides/class09.pdf) |
-| 10 | Th | 17 Sep | Basic Probability | 3.1 | [Slides](/assets/files/stor155fall2026/slides/class10.pdf) |
-| 11 | Tu | 22 Sep | Conditional Probability | 3.2 | [Slides](/assets/files/stor155fall2026/slides/class11.pdf) |
-| 12 | Th | 24 Sep | **Review for Midterm 1, Midterm 1 (evening)** | | |
-| 13 | Tu | 29 Sep | Conditional Probability | 3.2 | [Slides](/assets/files/stor155fall2026/slides/class13.pdf) |
-| 14 | Th | 01 Oct | Random Variables | 3.4 | [Slides](/assets/files/stor155fall2026/slides/class14.pdf) |
-| - | Tu | 06 Oct | *No class, Well-being day* | | |
-| 15 | Th | 08 Oct | Random Variables, Density Curves | 3.4, 3.5 | [Slides](/assets/files/stor155fall2026/slides/class15.pdf) |
-| 16 | Tu | 13 Oct | Normal Distribution | 4.1 | [Slides](/assets/files/stor155fall2026/slides/class16.pdf) |
-| - | Th | 15 Oct | *No class, Fall break* | | |
-| 17 | Tu | 20 Oct | Normal Distribution, Bernoulli Distribution | 4.1, 4.2 | [Slides](/assets/files/stor155fall2026/slides/class17.pdf) |
-| 18 | Th | 22 Oct | Binomial Distribution | 4.3 | [Slides](/assets/files/stor155fall2026/slides/class18.pdf) |
-| 19 | Tu | 27 Oct | Binomial Distribution, Introduction to Inference | 4.3, 5.1 | [Slides](/assets/files/stor155fall2026/slides/class19.pdf) |
-| 20 | Th | 29 Oct | Introduction to Inference, Confidence Intervals for Proportions | 5.1, 5.2 | [Slides](/assets/files/stor155fall2026/slides/class20.pdf) |
-| 21 | Tu | 03 Nov | Confidence Intervals for Proportions | 5.2 | [Slides](/assets/files/stor155fall2026/slides/class21.pdf) |
-| 22 | Th | 05 Nov | **Review for Midterm 2, Midterm 2 (evening)** | | |
-| 23 | Tu | 10 Nov | Hypothesis Tests for Proportions | 5.3 | [Slides](/assets/files/stor155fall2026/slides/class23.pdf) |
-| 24 | Th | 12 Nov | Hypothesis Tests for Proportions | 5.3 | [Slides](/assets/files/stor155fall2026/slides/class24.pdf) |
-| 25 | Tu | 17 Nov | Inference for a Difference of Proportions | 6.2 | [Slides](/assets/files/stor155fall2026/slides/class25.pdf) |
-| 26 | Th | 20 Nov | Inference for Means, t-Distribution | 7.1 | [Slides](/assets/files/stor155fall2026/slides/class26.pdf) |
-| 27 | Tu | 24 Nov | Inference for Means, t-Distribution, Paired Data | 7.1, 7.2 | [Slides](/assets/files/stor155fall2026/slides/class27.pdf) |
-| - | Th | 26 Nov | *No class, Thanksgiving break* | | |
-| 28 | Tu | 01 Dec | Inference for Paired Data, Difference of Means | 7.2, 7.3 | [Slides](/assets/files/stor155fall2026/slides/class28.pdf) |
-| |  **Th** | **10 Dec** | **Final Exam** | **Cumulative** | 
+Each class's topic below is hyperlinked to that day's slides once they're posted. To add one, save the PDF as `classNN.pdf` in `/assets/files/stor155fall2026/slides/`, and the link goes live automatically.
+
+| Class | Day | Date | Topic(s) | Reference |
+|---|---|---|---|---|
+| 1 | Tu | 18 Aug | [Introduction and Case Study, Data Basics](/assets/files/stor155fall2026/slides/class01.pdf) | 1.1, 1.2 |
+| 2 | Th | 20 Aug | [Data Basics](/assets/files/stor155fall2026/slides/class02.pdf) | 1.2 |
+| 3 | Tu | 25 Aug | [Data Collection and Sampling Strategies, Experiments](/assets/files/stor155fall2026/slides/class03.pdf) | 1.3, 1.4 |
+| 4 | Th | 27 Aug | [Numerical Data](/assets/files/stor155fall2026/slides/class04.pdf) | 1.4, 2.1 |
+| 5 | Tu | 01 Sep | [Visualizing Data](/assets/files/stor155fall2026/slides/class05.pdf) | 2.1, 2.2 |
+| 6 | Th | 03 Sep | [Correlation and Linear Regression I](/assets/files/stor155fall2026/slides/class06.pdf) | 8.1 |
+| 7 | Tu | 08 Sep | [Linear Regression II](/assets/files/stor155fall2026/slides/class07.pdf) | 8.1, 8.2 |
+| 8 | Th | 10 Sep | [Linear Regression](/assets/files/stor155fall2026/slides/class08.pdf) | 8.2 |
+| 9 | Tu | 15 Sep | [Basic Probability](/assets/files/stor155fall2026/slides/class09.pdf) | 3.1 |
+| 10 | Th | 17 Sep | [Basic Probability](/assets/files/stor155fall2026/slides/class10.pdf) | 3.1 |
+| 11 | Tu | 22 Sep | [Conditional Probability](/assets/files/stor155fall2026/slides/class11.pdf) | 3.2 |
+| 12 | Th | 24 Sep | **Review for Midterm 1, Midterm 1 (evening)** | |
+| 13 | Tu | 29 Sep | [Conditional Probability](/assets/files/stor155fall2026/slides/class13.pdf) | 3.2 |
+| 14 | Th | 01 Oct | [Random Variables](/assets/files/stor155fall2026/slides/class14.pdf) | 3.4 |
+| - | Tu | 06 Oct | *No class, Well-being day* | |
+| 15 | Th | 08 Oct | [Random Variables, Density Curves](/assets/files/stor155fall2026/slides/class15.pdf) | 3.4, 3.5 |
+| 16 | Tu | 13 Oct | [Normal Distribution](/assets/files/stor155fall2026/slides/class16.pdf) | 4.1 |
+| - | Th | 15 Oct | *No class, Fall break* | |
+| 17 | Tu | 20 Oct | [Normal Distribution, Bernoulli Distribution](/assets/files/stor155fall2026/slides/class17.pdf) | 4.1, 4.2 |
+| 18 | Th | 22 Oct | [Binomial Distribution](/assets/files/stor155fall2026/slides/class18.pdf) | 4.3 |
+| 19 | Tu | 27 Oct | [Binomial Distribution, Introduction to Inference](/assets/files/stor155fall2026/slides/class19.pdf) | 4.3, 5.1 |
+| 20 | Th | 29 Oct | [Introduction to Inference, Confidence Intervals for Proportions](/assets/files/stor155fall2026/slides/class20.pdf) | 5.1, 5.2 |
+| 21 | Tu | 03 Nov | [Confidence Intervals for Proportions](/assets/files/stor155fall2026/slides/class21.pdf) | 5.2 |
+| 22 | Th | 05 Nov | **Review for Midterm 2, Midterm 2 (evening)** | |
+| 23 | Tu | 10 Nov | [Hypothesis Tests for Proportions](/assets/files/stor155fall2026/slides/class23.pdf) | 5.3 |
+| 24 | Th | 12 Nov | [Hypothesis Tests for Proportions](/assets/files/stor155fall2026/slides/class24.pdf) | 5.3 |
+| 25 | Tu | 17 Nov | [Inference for a Difference of Proportions](/assets/files/stor155fall2026/slides/class25.pdf) | 6.2 |
+| 26 | Th | 20 Nov | [Inference for Means, t-Distribution](/assets/files/stor155fall2026/slides/class26.pdf) | 7.1 |
+| 27 | Tu | 24 Nov | [Inference for Means, t-Distribution, Paired Data](/assets/files/stor155fall2026/slides/class27.pdf) | 7.1, 7.2 |
+| - | Th | 26 Nov | *No class, Thanksgiving break* | |
+| 28 | Tu | 01 Dec | [Inference for Paired Data, Difference of Means](/assets/files/stor155fall2026/slides/class28.pdf) | 7.2, 7.3 |
+| | Th | 10 Dec | **Final Exam** | Cumulative |

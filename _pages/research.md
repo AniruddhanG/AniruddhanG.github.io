@@ -16,7 +16,40 @@ Current projects include work on **adaptive treatment policies** using online le
 
 ## Submitted Papers
 
-<ol class="submitted-papers" reversed start="2">
+<ol class="submitted-papers" reversed start="4">
+
+<li markdown="1">
+
+*Heterogeneous Causal Effects of Social Determinants of Health on Cardiovascular Health Across Sociodemographic Characteristics*, joint work with [Andong Wang](https://www.linkedin.com/in/andong-wang), [Rachel M. Vaughn](https://scholar.google.com/citations?hl=en&user=w70V18IAAAAJ&view_op=list_works&sortby=pubdate), [Safoora Masoumi](https://scholar.google.com/citations?user=hkMxKQEAAAAJ&hl=en), and [Iheoma U. Iruka](https://www.iheomairuka.com) — submitted to [American Journal of Public Health](https://ajph.aphapublications.org).
+
+<div class="paper-links">
+<button type="button" class="paper-box" aria-expanded="false" aria-controls="abstract-box-sdoh-cardiovascular" onclick="toggleBox('abstract-box-sdoh-cardiovascular', this)">Abstract</button>
+</div>
+
+<div id="abstract-box-sdoh-cardiovascular" class="content-box" style="display:none;">
+<p><strong>Objectives.</strong> To determine whether social determinants of health (SDOH) affect cardiovascular health directly or through healthcare utilization, and whether these pathways vary by sociodemographic characteristics.</p>
+<p><strong>Methods.</strong> We analyzed National Health and Nutrition Examination Survey data from US adults (n = 5,840), 2017–2018. Latent class analysis characterized SDOH burden into 4 classes and healthcare utilization into 2 classes. We estimated causal effects using augmented inverse probability weighting with cross-fitted, machine learning-based propensity scores, decomposed effects into direct and utilization-mediated pathways, and examined effect modification by subgroup.</p>
+<p><strong>Results.</strong> Moving from the worst to the best SDOH profile increased Life's Composite 9 (LC9) cardiovascular scores by 6.5 points (95% CI = 4.7, 8.2). Only 6.0% (95% CI = 1.0%, 11.0%) was mediated by healthcare utilization. Non-Hispanic White adults showed a larger benefit (+11.2) than Mexican American adults (+1.9).</p>
+<p><strong>Conclusions.</strong> Social disadvantage affects cardiovascular health mainly through direct pathways, with effects that differ by race and ethnicity.</p>
+<p><strong>Policy Implications.</strong> Expanding healthcare access alone is unlikely to meaningfully reduce the SDOH–health gap; investments in income and housing inequities, and attention to factors most salient for racially minoritized populations, are also needed.</p>
+</div>
+
+</li>
+
+<li markdown="1">
+
+*Discussion of "Hypothesis Testing for Treatment Effect Heterogeneity via an Adaptively Augmented Debiased Estimator"*, joint work with [Annika Clevens](https://www.linkedin.com/in/annika-cleven/), [Xinyi Li](https://sites.google.com/view/li-xinyi), [Margaret Hoch](https://www.linkedin.com/in/molly-hoch/), [Keshav Saxena](https://www.linkedin.com/in/keshav-saxena-9494b6206/), [Matthew Egberg](https://www.med.unc.edu/pediatrics/people/matthew-egberg-md-mph-mmsc/), [Bryce Rowland](https://sph.unc.edu/adv_profile/bryce-rowland/), and [Michael R. Kosorok](https://mkosorok.web.unc.edu) — accepted for publication in [ASA Discoveries](https://www.tandfonline.com/journals/uasd20).
+
+<div class="paper-links">
+<button type="button" class="paper-box" aria-expanded="false" aria-controls="abstract-box-asa-discoveries" onclick="toggleBox('abstract-box-asa-discoveries', this)">Abstract</button>
+</div>
+
+<div id="abstract-box-asa-discoveries" class="content-box" style="display:none;">
+<p>In this discussion, we study the contributions of Takeishi and He (2026) and the potential applications and extensions of their nonparametric test for treatment effect heterogeneity. In particular, we outline how a clinical trial may be designed using this hypothesis to detect heterogeneous treatment effects, and compare it with other trial objectives. Additionally, we detail an extension of this hypothesis to identify the key covariates that drive heterogeneity.</p>
+<p style="font-size:0.85em; margin-top:0.8em;"><strong>Reference:</strong> Takeishi, S. &amp; He, X. (2026), "Hypothesis testing for treatment effect heterogeneity via an adaptively augmented debiased estimator", <em>ASA Discoveries</em>.</p>
+</div>
+
+</li>
 
 <li markdown="1">
 
