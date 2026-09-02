@@ -80,7 +80,7 @@ This course will enable you to:
 
 ## Course Schedule & Slides
 
-Each class's topic below is hyperlinked to that day's slides once they're posted. To add one, save the PDF as `classNN.pdf` in `/assets/files/stor155fall2026/slides/`, and the link goes live automatically.
+Each class's topic below is hyperlinked to that day's slides once they're posted. 
 
 | Class | Day | Date | Topic(s) | Reference |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ Each class's topic below is hyperlinked to that day's slides once they're posted
 | 5 | Tu | 01 Sep | [Visualizing Data](/assets/files/stor155fall2026/slides/class05.pdf) | 2.1, 2.2 |
 | 6 | Th | 03 Sep | [Correlation and Linear Regression I](/assets/files/stor155fall2026/slides/class06.pdf) | 8.1 |
 | 7 | Tu | 08 Sep | [Linear Regression II](/assets/files/stor155fall2026/slides/class07.pdf) | 8.1, 8.2 |
-| 8 | Th | 10 Sep | [Linear Regression](/assets/files/stor155fall2026/slides/class08.pdf) | 8.2 |
+| 8 | Th | 10 Sep | [Linear Regression III](/assets/files/stor155fall2026/slides/class08.pdf) | 8.2 |
 | 9 | Tu | 15 Sep | [Basic Probability](/assets/files/stor155fall2026/slides/class09.pdf) | 3.1 |
 | 10 | Th | 17 Sep | [Basic Probability](/assets/files/stor155fall2026/slides/class10.pdf) | 3.1 |
 | 11 | Tu | 22 Sep | [Conditional Probability](/assets/files/stor155fall2026/slides/class11.pdf) | 3.2 |
