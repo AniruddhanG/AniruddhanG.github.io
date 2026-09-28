@@ -25,6 +25,17 @@ Research presentations have been invaluable beyond just disseminating work — t
 
 ---
 
+## Poster Presentations
+
+| Date | Title | Conference | Materials |
+|---|---|---|---|
+| 24 Sep 2026 | *Proactive Inpatient Bed Requests for Emergency Department Admissions*, with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) — awarded second place | [Data Science Day 2026](https://sdis.unc.edu/event/data-science-day-2026/), [SDIS](https://sdis.unc.edu), UNC Chapel Hill | [Poster](/assets/files/posters/ED_Boarding.pdf) |
+| 22 Aug 2026 | *Proactive Inpatient Bed Request Policies for Emergency Departments*, with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) — awarded first place | [YinzOR 2026 Student Conference](https://yinzor.cmuinforms.org), [CMU INFORMS Student Chapter](https://cmuinforms.org) | [Poster](/assets/files/posters/ED_Boarding.pdf) |
+| Jul 2026 | *Proactive Inpatient Bed Requests for Emergency Department Admissions*, with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) | [INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu) | [Poster](https://www.dropbox.com/scl/fi/cpaem7vt410y20eikqvk3/Poster-ED-Boarding.pdf?rlkey=vynqmysv0wh35k1o5d74pwllr&st=qef2sh1a&dl=0) |
+| 14 May 2026 | *Estimation of a Common Local Average Treatment Effect with Multiple Instruments*, with [Patrick Lopatto](https://lopat.to) and [P. M. Aronow](https://pmaronow.github.io) — latebreaker poster, awarded Honorable Mention in the [Tom Ten Have poster competition](https://sci-info.org/tom-ten-have-award/) | [American Causal Inference Conference (ACIC) 2026](https://sci-info.org/2026-meeting-2/) | |
+
+---
+
 ## Outreach Talks
 
 Outreach is something I genuinely enjoy. Speaking to younger audiences is uniquely rewarding because their curiosity is unfiltered, and the challenge of making a difficult idea feel natural keeps me sharp. There is something deeply satisfying about making mathematics feel accessible to someone who thought it wasn't for them.

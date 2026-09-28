@@ -1,8 +1,14 @@
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll('a[href^="http"]').forEach(function(link) {
-      link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener noreferrer');
+    var fileExtensions = /\.(pdf|docx?|pptx?|xlsx?|csv|zip)$/i;
+    document.querySelectorAll('a[href]').forEach(function(link) {
+      var href = link.getAttribute('href');
+      var isExternal = href.indexOf('http') === 0;
+      var isFile = fileExtensions.test(href);
+      if (isExternal || isFile) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
     });
   });
 </script>

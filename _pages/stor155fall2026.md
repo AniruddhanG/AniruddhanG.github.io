@@ -61,20 +61,27 @@ This course will enable you to:
 | Midterm 1 | 24 Sep (Th) | 25% |
 | Midterm 2 | 05 Nov (Th) | 25% |
 | Final Exam | 10 Dec (Th) | 30% |
+{: .centered-table}
+
+**Homeworks** will be assigned at the end of every class at 09:15 AM and will be due the following class day at 23:59.
+
+**Comprehension checks (quizzes)** will be administered via PollEverywhere during class, based on the material covered in the previous class.
 
 | 93+ | 90-92 | 87-89 | 83-86 | 80-82 | 77-79 | 73-76 | 70-72 | 67-69 | 60-66 | Below 60 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | F |
+{: .centered-table}
 
 ---
 
 ## Exam Dates
 
-| Exam | Date | 
-|---|---|
-| Midterm 1 | 24 Sep '26 (Th) | 
-| Midterm 2 | 05 Nov '26 (Th) | 
-| Final | 10 Dec '26 (Th), 16:00-19:00 | 
+| Exam | Date | Materials |
+|---|---|---|
+| Midterm 1 | 24 Sep '26 (Th) | [Practice Problem Set](/assets/files/stor155fall2026/exams/MT1_Practice.pdf), [Midterm 1 Solutions](/assets/files/stor155fall2026/exams/MT1_Solutions.pdf) |
+| Midterm 2 | 05 Nov '26 (Th) | |
+| Final | 10 Dec '26 (Th), 16:00-19:00 | |
+{: .centered-table}
 
 ---
 
@@ -116,3 +123,8 @@ Each class's topic below is hyperlinked to that day's slides once they're posted
 | - | Th | 26 Nov | *No class, Thanksgiving break* | |
 | 28 | Tu | 01 Dec | [Inference for Paired Data, Difference of Means](/assets/files/stor155fall2026/slides/class28.pdf) | 7.2, 7.3 |
 | | Th | 10 Dec | **Final Exam** | Cumulative |
+
+<style>
+.centered-table { margin-left: auto; margin-right: auto; }
+.centered-table th, .centered-table td { text-align: center; }
+</style>

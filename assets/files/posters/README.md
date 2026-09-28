@@ -1,0 +1,1 @@
+Drop poster PDFs here, named `ED_Boarding.pdf` for the *Proactive Inpatient Bed Requests for Emergency Department Admissions* poster. Once uploaded, it goes live automatically at `/assets/files/posters/ED_Boarding.pdf` — the Talks & Outreach, Recent News, and Conferences & Workshops entries already link to this path.
