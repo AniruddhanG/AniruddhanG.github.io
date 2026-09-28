@@ -96,15 +96,15 @@ Each class's topic below is hyperlinked to that day's slides once they're posted
 | 3 | Tu | 25 Aug | [Data Collection and Sampling Strategies, Experiments](/assets/files/stor155fall2026/slides/class03.pdf) | 1.3, 1.4 |
 | 4 | Th | 27 Aug | [Numerical Data](/assets/files/stor155fall2026/slides/class04.pdf) | 1.4, 2.1 |
 | 5 | Tu | 01 Sep | [Visualizing Data](/assets/files/stor155fall2026/slides/class05.pdf) | 2.1, 2.2 |
-| 6 | Th | 03 Sep | [Correlation and Linear Regression I](/assets/files/stor155fall2026/slides/class06.pdf) | 8.1 |
-| 7 | Tu | 08 Sep | [Linear Regression II](/assets/files/stor155fall2026/slides/class07.pdf) | 8.1, 8.2 |
-| 8 | Th | 10 Sep | [Linear Regression III](/assets/files/stor155fall2026/slides/class08.pdf) | 8.2 |
+| 6 | Th | 03 Sep | [Correlation](/assets/files/stor155fall2026/slides/class06.pdf) | 8.1 |
+| 7 | Tu | 08 Sep | [Linear Regression I](/assets/files/stor155fall2026/slides/class07.pdf) | 8.1, 8.2 |
+| 8 | Th | 10 Sep | [Linear Regression II](/assets/files/stor155fall2026/slides/class08.pdf) | 8.2 |
 | 9 | Tu | 15 Sep | [Basic Probability](/assets/files/stor155fall2026/slides/class09.pdf) | 3.1 |
-| 10 | Th | 17 Sep | [Basic Probability](/assets/files/stor155fall2026/slides/class10.pdf) | 3.1 |
-| 11 | Tu | 22 Sep | [Conditional Probability](/assets/files/stor155fall2026/slides/class11.pdf) | 3.2 |
+| 10 | Th | 17 Sep | [Conditional Probability](/assets/files/stor155fall2026/slides/class10.pdf) | 3.1 |
+| 11 | Tu | 22 Sep | [Bayes' Theorem, Random Variables](/assets/files/stor155fall2026/slides/class11.pdf) | 3.2 |
 | 12 | Th | 24 Sep | **Review for Midterm 1, Midterm 1 (evening)** | |
-| 13 | Tu | 29 Sep | [Conditional Probability](/assets/files/stor155fall2026/slides/class13.pdf) | 3.2 |
-| 14 | Th | 01 Oct | [Random Variables](/assets/files/stor155fall2026/slides/class14.pdf) | 3.4 |
+| 13 | Tu | 29 Sep | [Expectation and Variance](/assets/files/stor155fall2026/slides/class13.pdf) | 3.2 |
+| 14 | Th | 01 Oct | [Continuous Random Variables](/assets/files/stor155fall2026/slides/class14.pdf) | 3.4 |
 | - | Tu | 06 Oct | *No class, Well-being day* | |
 | 15 | Th | 08 Oct | [Random Variables, Density Curves](/assets/files/stor155fall2026/slides/class15.pdf) | 3.4, 3.5 |
 | 16 | Tu | 13 Oct | [Normal Distribution](/assets/files/stor155fall2026/slides/class16.pdf) | 4.1 |
