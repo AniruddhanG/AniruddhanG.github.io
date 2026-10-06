@@ -13,6 +13,7 @@ main:
   - title: "Talks & Outreach"
     url: /talks-and-outreach/
   - title: "CV"
+    url: /cv/
     children:
       - title: "Full CV"
         url: /assets/files/cv/Full_CV_Aniruddhan_Ganesaraman.pdf
