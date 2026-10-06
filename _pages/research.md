@@ -5,16 +5,16 @@ search: true
 toc: true
 toc_label: "On this page"
 toc_sticky: true
-description: "Research interests, submitted papers, and course projects of Aniruddhan Ganesaraman, PhD student in Statistics & Operations Research at UNC Chapel Hill, focused on precision medicine, causal inference, and sequential decision-making."
+description: "Research interests, papers, and course projects of Aniruddhan Ganesaraman, PhD student in Statistics & Operations Research at UNC Chapel Hill, focused on precision medicine, causal inference, and adaptive policy learning."
 ---
 
 ## Research Interests
 
-My research is at the intersection of precision medicine, causal inference, and sequential decision-making, with applications in healthcare. I am broadly interested in problems where rigorous statistical thinking can directly inform policy and intervention design.
+My research is at the intersection of precision medicine, causal inference, and adaptive policy learning, with applications in healthcare. I am broadly interested in problems where rigorous statistical thinking can directly inform policy and intervention design.
 
 Current projects include work on **adaptive treatment policies** using online learning in precision medicine, and **causal inference with multiple instruments**, particularly over-identified instrumental variable settings — I'd be happy to discuss either in more depth. Feel free to [reach out](mailto:aniruddhan_ganesaraman@unc.edu), and see the [Recent News](/#recent-news) section on the homepage for the latest updates!
 
-## Submitted Papers
+## Papers & Preprints
 
 <ol class="submitted-papers" reversed start="4">
 
@@ -168,10 +168,11 @@ Early in my PhD, I have made a deliberate effort to attend conferences and works
 | [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) | San Francisco, CA | Nov 2026 | *Upcoming* — Invited speaker, MSOM Service Operations session honoring [Prof. Vidyadhar Kulkarni's](https://vkulkarn.web.unc.edu) retirement; presenting *Data Driven Block Replacement Scheduling* with [Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu) |
 | [2026 NC Triangle Research Regional Exchange](https://ncanalytics.informs.org) | Raleigh, NC | Sep 2026 | Presented by [Serhan Ziya](https://ziya.web.unc.edu) on our joint work, *Proactive Inpatient Bed Requests for Emergency Department Admissions*, with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/) and [Nilay Tanik Argon](https://nta.web.unc.edu) |
 | [Data Science Day 2026](https://sdis.unc.edu/event/data-science-day-2026/) | Chapel Hill, NC | Sep 2026 | Presented poster on *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) [[Poster](/assets/files/posters/ED_Boarding.pdf)]; awarded second place in the poster competition |
+| [YinzOR 2026 Student Conference](https://yinzor.cmuinforms.org) | Pittsburgh, PA | Aug 2026 | Presented poster on *Proactive Inpatient Bed Request Policies for Emergency Departments* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) [[Poster](/assets/files/posters/ED_Boarding.pdf)]; awarded first place in the poster competition; organized by the [CMU INFORMS Student Chapter](https://cmuinforms.org) at [Carnegie Mellon University's](https://www.cmu.edu) [Tepper School of Business](https://www.cmu.edu/tepper) |
 | [INFORMS Simulation Society Research Workshop](https://isim2026.ise.ncsu.edu) | Raleigh, NC | Jul 2026 | Presented poster on *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) [[Poster](https://www.dropbox.com/scl/fi/cpaem7vt410y20eikqvk3/Poster-ED-Boarding.pdf?rlkey=vynqmysv0wh35k1o5d74pwllr&st=qef2sh1a&dl=0)]|
 | [INFORMS Healthcare Conference](https://meetings.informs.org/wordpress/healthcare/) | Raleigh, NC | Jul 2026 | Presented talk on *Proactive Inpatient Bed Requests for Emergency Department Admissions* with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu) [[Slides](https://www.dropbox.com/scl/fi/xu8muif4xromjvtesoz25/INFORMS-Healthcare-ED-Boarding.pdf?rlkey=oxlydq7mk1bmjoj0v41goym5m&st=8oy5geln&dl=0)]|
 | [American Causal Inference Conference (ACIC) 2026](https://sci-info.org/2026-meeting-2/) | Salt Lake City, UT | May 2026 | Presented latebreaker poster *Estimation of a Common Local Average Treatment Effect with Multiple Instruments* with [Patrick Lopatto](https://lopat.to) and [P. M. Aronow](https://pmaronow.github.io); awarded Honorable Mention in the [Tom Ten Have poster competition](https://sci-info.org/tom-ten-have-award/) |
 | [Conference on Extreme Value Analysis (EVA 2025)](https://eva2025.unc.edu/) | Chapel Hill, NC | Jun 2025 | Volunteered; first exposure to the breadth of extreme value theory and its applications across climate science, public health, and finance |
 | [DAIR³](https://dair-3.org/) | Jackson, MS | May 2025 | NIH-supported weeklong bootcamp on rigorous and reproducible biomedical data science; held at [Jackson State University](https://www.jsums.edu) |
 | Mini-course by [Prof. Remco van der Hofstad](https://www.win.tue.nl/~rhofstad/) | Chapel Hill, NC | Oct 2024 | Short course on *Dynamic Processes on Networks*, hosted by the STOR department at UNC |
-| [Advanced Instructional School in Stochastic Processes (AISSP)](https://www.atmschools.org/) | Bhubaneswar, India | Jul 2023 | Intensive three-week school on Brownian motion, martingales, and measure theory; held at [NISER Bhubaneswar](https://www.niser.ac.in/) [[Notes & Problem Sets](https://www.dropbox.com/scl/fo/fr94odgb62io82879a85k/h?rlkey=b5osk4fzozj0135oa01eayxb2&e=1&dl=0)] |
+| [Advanced Instructional School in Stochastic Processes (AISSP)](https://www.atmschools.org/) | Bhubaneswar, India | Jun 2023 | Intensive three-week school on Brownian motion, martingales, and measure theory; held at [NISER Bhubaneswar](https://www.niser.ac.in/) [[Notes & Problem Sets](https://www.dropbox.com/scl/fo/fr94odgb62io82879a85k/h?rlkey=b5osk4fzozj0135oa01eayxb2&e=1&dl=0)] |
