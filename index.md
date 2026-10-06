@@ -8,7 +8,7 @@ Welcome to my homepage!
 
 I'm Ani, a 3rd year PhD student in the [Department of Statistics and Operations Research](https://stor.unc.edu) at [The University of North Carolina at Chapel Hill](https://www.unc.edu). I am fortunate to be advised by [Prof. Patrick Lopatto](https://lopat.to) and [Prof. Michael Kosorok](https://mkosorok.web.unc.edu). My research interests include **precision medicine**, **causal inference**, and **adaptive policy learning**. 
 
-I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in/index) and my undergraduate in Mathematics and Computer Science from [Chennai Mathematical Institute, Chennai, India](https://www.cmi.ac.in). My full CV is <a href="/assets/files/CV_2026_Aniruddhan_Ganesaraman.pdf" target="_blank">here</a>.
+I completed my M.S. in Statistics, Analytics, and Data Science at [UNC Chapel Hill](https://www.unc.edu) under [Prof. Vidyadhar Kulkarni](https://vkulkarn.web.unc.edu), with a thesis on *Data-Driven Block Replacement Scheduling* ([arXiv](https://arxiv.org/abs/2607.15229)). Before UNC, I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in/index) and my undergraduate in Mathematics and Computer Science from [Chennai Mathematical Institute, Chennai, India](https://www.cmi.ac.in). My CV is available as a <a href="/assets/files/cv/CV_OnePage_Aniruddhan_Ganesaraman.pdf" target="_blank">one-page version</a> and a <a href="/assets/files/cv/Full_CV_Aniruddhan_Ganesaraman.pdf" target="_blank">full version</a>.
 
 📢 **Open to Opportunities**: I'm actively seeking internship opportunities and research collaborations involving statistical modeling, policy learning, or causal inference. I would love to [get in touch](mailto:aniruddhan_ganesaraman@unc.edu)!
 {: .notice--info}
@@ -18,6 +18,8 @@ I completed my Master of Statistics (M.Stat.) from [Indian Statistical Institute
 ## Recent News
 
 <div class="recent-news-scroll" markdown="1">
+
+- **05 Oct 2026** - Selected as one of 10 university-wide finalists in the [Three Minute Thesis (3MT) 2026](https://gradschool.unc.edu/professional-development/programs/three-minute-thesis/) competition hosted by the [UNC Graduate School](https://gradschool.unc.edu), for my talk *Admitted, and still waiting...*. The [finals](https://gradschool.unc.edu/event/3mt-finals-2026/) are on 20 Oct 2026 at the Sonja Haynes Stone Center. [[Announcement](https://gradschool.unc.edu/2026/10/3mt-finalists-2026/)]
 
 - **24 Sep 2026** - Won second place in the poster competition at [Data Science Day 2026](https://sdis.unc.edu/event/data-science-day-2026/), hosted by the [School of Data and Information Sciences (SDIS)](https://sdis.unc.edu) at UNC Chapel Hill, for my work on "Proactive Inpatient Bed Requests for Emergency Department Admissions" (joint work with [Qian Cheng](https://www.linkedin.com/in/qian-cheng-552978147/), [Nilay Tanik Argon](https://nta.web.unc.edu), and [Serhan Ziya](https://ziya.web.unc.edu)). [[Poster](/assets/files/posters/ED_Boarding.pdf)]
 

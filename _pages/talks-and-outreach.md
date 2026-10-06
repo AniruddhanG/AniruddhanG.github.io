@@ -55,6 +55,10 @@ If you have an outreach opportunity you think I'd be a good fit for, feel free t
 
 ### Outreach Activities
 
+- **STOR Liaison to the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/)** (Sep 2026 – Present) — I serve as the [STOR](https://stor.unc.edu) graduate student liaison to the Department of Biostatistics (BIOS), facilitating communication and planning joint activities between the two departments.
+
+- **Lead Organizer, [STOR Graduate Student Showcase](https://researchweek.unc.edu/events/stor-graduate-student-showcase/)** (Oct 2026) — As part of [UNC Research Week](https://researchweek.unc.edu), I am organizing the department's afternoon of research posters and talks from ten STOR PhD students.
+
 - **[UNC Science Expo](https://moreheadplanetarium.org/program/expo/)** (April 2025 & 2026) — Volunteered at this annual celebration of science hosted by Morehead Planetarium, welcoming thousands of visitors for hands-on demonstrations. Represented the STOR department with interactive exhibits on topics including a mind reader, Monty Hall problem, Galton board, Traveling Salesman Problem — enjoyed by kids and adults alike.
 
 - **[UNC Engineers Week](https://college.unc.edu/2026/02/engineering-week/)** (Feb 2026) — Volunteered during this campus-wide celebration of engineering, representing the Department of Statistics and Operations Research with a focus on operations research and its applications in healthcare systems, including making hospitals function more efficiently.

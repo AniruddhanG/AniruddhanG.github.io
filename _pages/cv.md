@@ -1,9 +1,17 @@
 ---
-title: "CV"
+layout: null
 permalink: /cv/
-description: "Curriculum vitae of Aniruddhan Ganesaraman, PhD student in Statistics and Operations Research at UNC Chapel Hill."
+sitemap: false
+search: false
 ---
-
-<script>window.open('/assets/files/CV_2026_Aniruddhan_Ganesaraman.pdf', '_blank');</script>
-
-[Click here if the PDF does not open automatically.](/assets/files/CV_2026_Aniruddhan_Ganesaraman.pdf){:target="_blank"}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex">
+  <meta http-equiv="refresh" content="0; url=/assets/files/cv/Full_CV_Aniruddhan_Ganesaraman.pdf">
+  <link rel="canonical" href="/assets/files/cv/Full_CV_Aniruddhan_Ganesaraman.pdf">
+  <title>CV</title>
+</head>
+<body></body>
+</html>
